@@ -1,0 +1,1801 @@
+product_name,product_category,market_location,date,historical_selling_price,quantity_supplied_kg,quantity_sold_kg,demand_score,season,month,day_of_week,product_quality
+Vine Tomatoes,Vegetables,Surat Mandi,2025-01-01,34.55,15174,9345,62,Rabi,1,Wednesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-01-01,49.15,40868,26215,62,Rabi,1,Wednesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-01-03,35.22,12347,6750,61,Rabi,1,Friday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-01-03,57.06,43555,22692,57,Rabi,1,Friday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-01-04,133.87,3658,2969,82,Rabi,1,Saturday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-01-04,56.78,44409,22555,52,Rabi,1,Saturday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2025-01-04,52.38,33329,23279,70,Rabi,1,Saturday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-01-04,33.45,13534,7197,62,Rabi,1,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-01-04,42.5,29650,18972,69,Rabi,1,Saturday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-01-05,120.87,6133,3315,56,Rabi,1,Sunday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-01-06,141.46,5929,3748,69,Rabi,1,Monday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-01-07,1748.52,781,492,62,Rabi,1,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-01-07,197.53,5973,3567,64,Rabi,1,Tuesday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-01-08,1425.24,979,626,61,Rabi,1,Wednesday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-01-08,36.09,34455,28194,78,Rabi,1,Wednesday,Grade B
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-01-09,153.95,6144,3244,62,Rabi,1,Thursday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-01-09,38.31,11228,6675,67,Rabi,1,Thursday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-01-10,1446.34,491,399,79,Rabi,1,Friday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2025-01-10,29.96,42671,27893,70,Rabi,1,Friday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-01-10,30.38,52213,29002,60,Rabi,1,Friday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-01-11,31.83,37638,26193,76,Rabi,1,Saturday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-01-12,1164.94,526,326,68,Rabi,1,Sunday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-01-12,57.35,27652,19414,67,Rabi,1,Sunday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-01-13,143.2,6240,4433,69,Rabi,1,Monday,Grade B
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-01-13,1450.45,553,410,75,Rabi,1,Monday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2025-01-14,40.63,47538,23491,52,Rabi,1,Tuesday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-01-15,37.09,38410,21757,64,Rabi,1,Wednesday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2025-01-15,54.08,37510,21806,59,Rabi,1,Wednesday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-01-15,1198.64,548,374,80,Rabi,1,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-01-16,46.94,10269,7508,73,Rabi,1,Thursday,Organic Certified
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-01-16,194.91,5414,3136,61,Rabi,1,Thursday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-01-16,1293.9,443,279,72,Rabi,1,Thursday,Organic Certified
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-01-18,33.3,9522,5909,72,Rabi,1,Saturday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-01-18,152.9,6880,4237,63,Rabi,1,Saturday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-01-19,31.85,48094,28487,67,Rabi,1,Sunday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-01-19,36.71,16698,9388,62,Rabi,1,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-01-19,976.78,741,395,57,Rabi,1,Sunday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-01-20,25.11,16396,8998,56,Rabi,1,Monday,Grade B
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-01-20,1352.28,475,317,69,Rabi,1,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-01-20,198.01,4129,2540,68,Rabi,1,Monday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2025-01-21,49.07,25694,20737,79,Rabi,1,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-01-21,157.89,6950,4020,60,Rabi,1,Tuesday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-01-21,924.35,454,347,79,Rabi,1,Tuesday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2025-01-22,50.42,20282,14429,72,Rabi,1,Wednesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-01-22,2212.61,922,599,63,Rabi,1,Wednesday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-01-22,154.46,6406,2975,53,Rabi,1,Wednesday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2025-01-22,49.72,34923,19715,59,Rabi,1,Wednesday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2025-01-22,1204.96,954,631,66,Rabi,1,Wednesday,Grade B
+Nashik Red Onions,Vegetables,Nashik APMC,2025-01-22,27.21,32840,27368,84,Rabi,1,Wednesday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-01-23,52.32,32261,16809,60,Rabi,1,Thursday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-01-23,1060.93,704,465,66,Rabi,1,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-01-23,1366.78,785,498,61,Rabi,1,Thursday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2025-01-24,50.85,28561,17343,68,Rabi,1,Friday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-01-24,35.58,54151,34698,67,Rabi,1,Friday,Organic Certified
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-01-24,152.59,3848,3026,85,Rabi,1,Friday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-01-25,32.03,9135,5743,71,Rabi,1,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-01-26,32.09,27918,19806,72,Rabi,1,Sunday,Grade B
+Vine Tomatoes,Vegetables,Pune Market,2025-01-26,36.58,12146,7003,63,Rabi,1,Sunday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-01-26,28.08,8867,5970,74,Rabi,1,Sunday,Grade B
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-01-27,1479.94,561,408,72,Rabi,1,Monday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-01-27,42.62,39947,23278,67,Rabi,1,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-01-28,40.09,13857,9737,69,Rabi,1,Tuesday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-01-29,1730.35,803,598,74,Rabi,1,Wednesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-01-29,1396.22,1058,504,56,Rabi,1,Wednesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-01-30,50.24,31687,22544,76,Rabi,1,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-01-30,49.08,32070,21838,74,Rabi,1,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-01-30,43.81,48861,23692,50,Rabi,1,Thursday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-01-30,1988.07,637,514,79,Rabi,1,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-01-30,40.58,46300,25148,63,Rabi,1,Thursday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-01-31,151.27,4738,2915,68,Rabi,1,Friday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-01-31,1153.53,522,332,66,Rabi,1,Friday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2025-01-31,51.25,23530,14046,68,Rabi,1,Friday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-02-01,1275.26,428,292,76,Rabi,2,Saturday,Organic Certified
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-02-01,159.5,4513,3161,74,Rabi,2,Saturday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-02-01,27.79,48329,29823,64,Rabi,2,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-02-02,42.66,29174,21568,81,Rabi,2,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-02-02,1234.26,652,375,59,Rabi,2,Sunday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-02-02,168.38,6830,3084,50,Rabi,2,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-02-02,1526.27,470,356,83,Rabi,2,Sunday,Organic Certified
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-02-02,26.25,36550,29723,80,Rabi,2,Sunday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-02-02,61.04,20823,17000,81,Rabi,2,Sunday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2025-02-03,48.57,33281,20454,61,Rabi,2,Monday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-02-03,29.41,49458,28093,59,Rabi,2,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2025-02-03,35.01,11545,9248,79,Rabi,2,Monday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2025-02-03,46.38,21140,17290,85,Rabi,2,Monday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-02-04,37.02,14224,7237,59,Rabi,2,Tuesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-02-05,1701.17,921,571,67,Rabi,2,Wednesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-02-05,159.08,5765,3816,71,Rabi,2,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-02-05,36.24,45424,28650,62,Rabi,2,Wednesday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2025-02-06,1656.62,1106,580,50,Rabi,2,Thursday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-02-07,166.69,3601,2792,79,Rabi,2,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-02-07,170.88,5974,3102,61,Rabi,2,Friday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-02-07,1540.25,436,267,71,Rabi,2,Friday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2025-02-07,51.77,28314,21973,74,Rabi,2,Friday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2025-02-07,44.26,23034,14313,71,Rabi,2,Friday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-02-08,30.41,50779,29223,59,Rabi,2,Saturday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-02-08,188.06,6959,4305,62,Rabi,2,Saturday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-02-09,1751.4,946,529,56,Rabi,2,Sunday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-02-09,192.6,5691,3936,73,Rabi,2,Sunday,Organic Certified
+Sharbati Wheat,Grains,Indore Mandi,2025-02-10,52.5,24490,15558,69,Rabi,2,Monday,Organic Certified
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-02-10,183.82,5963,4135,71,Rabi,2,Monday,Organic Certified
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-02-10,154.94,5707,2939,58,Rabi,2,Monday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-02-11,34.04,9492,6220,77,Rabi,2,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-02-11,212.21,6171,3711,69,Rabi,2,Tuesday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-02-11,1232.07,481,316,71,Rabi,2,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-02-12,167.59,6020,3863,66,Rabi,2,Wednesday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-02-12,52.78,26535,19603,76,Rabi,2,Wednesday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2025-02-12,52.29,24014,17312,77,Rabi,2,Wednesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2025-02-12,33.08,13968,7603,63,Rabi,2,Wednesday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-02-13,45.73,35112,21543,65,Rabi,2,Thursday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-02-13,24.76,35347,29029,84,Rabi,2,Thursday,Grade B
+Vine Tomatoes,Vegetables,Pune Market,2025-02-13,30.96,13892,9418,72,Rabi,2,Thursday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-02-13,35.8,32127,21700,74,Rabi,2,Thursday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-02-13,1207.87,516,322,73,Rabi,2,Thursday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-02-13,1135.54,753,406,56,Rabi,2,Thursday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-02-14,29.53,59548,30774,59,Rabi,2,Friday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-02-16,43.44,48637,27373,55,Rabi,2,Sunday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-02-16,39.74,12538,7085,63,Rabi,2,Sunday,Organic Certified
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-02-16,44.94,10623,7674,72,Rabi,2,Sunday,Organic Certified
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-02-16,184.44,3550,2671,73,Rabi,2,Sunday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2025-02-16,62.79,34023,19494,56,Rabi,2,Sunday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-02-16,1137.23,549,411,75,Rabi,2,Sunday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-02-17,50.09,35759,23707,64,Rabi,2,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2025-02-17,45.68,13346,9046,72,Rabi,2,Monday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-02-19,920.59,773,387,58,Rabi,2,Wednesday,Grade B
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-02-19,35.61,16540,9570,61,Rabi,2,Wednesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-02-19,40.82,47439,27405,65,Rabi,2,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-02-19,832.31,835,420,59,Rabi,2,Wednesday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2025-02-20,1635.85,599,446,76,Rabi,2,Thursday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-02-20,1613.11,755,516,67,Rabi,2,Thursday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-02-20,1532.65,671,491,72,Rabi,2,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-02-21,1120.86,426,326,74,Rabi,2,Friday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-02-21,27.86,50884,33951,64,Rabi,2,Friday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-02-21,46.69,36119,21625,66,Rabi,2,Friday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-02-21,46.12,27021,16375,70,Rabi,2,Friday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-02-21,1363.18,611,408,64,Rabi,2,Friday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-02-22,1423.13,567,399,79,Rabi,2,Saturday,Organic Certified
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-02-22,35.08,13464,7051,59,Rabi,2,Saturday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-02-22,27.29,55711,33883,67,Rabi,2,Saturday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-02-22,1422.85,1034,692,64,Rabi,2,Saturday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-02-22,35.14,27657,23420,81,Rabi,2,Saturday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2025-02-23,1953.5,587,387,73,Rabi,2,Sunday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2025-02-23,33.23,35057,26300,82,Rabi,2,Sunday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2025-02-23,1478.79,1068,463,51,Rabi,2,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-02-23,1487.89,779,446,63,Rabi,2,Sunday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2025-02-23,1711.61,622,419,78,Rabi,2,Sunday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-02-23,40.58,28102,20660,77,Rabi,2,Sunday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2025-02-24,52.5,33568,23160,70,Rabi,2,Monday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-02-25,35.56,37728,21757,63,Rabi,2,Tuesday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-02-25,1184.25,468,326,74,Rabi,2,Tuesday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-02-25,40.84,28567,18202,66,Rabi,2,Tuesday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-02-25,154.91,6155,3672,66,Rabi,2,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-02-26,168.05,4239,3018,71,Rabi,2,Wednesday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-02-26,1619.32,765,545,71,Rabi,2,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-02-26,37.19,11457,6395,64,Rabi,2,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-02-26,1146.11,447,305,71,Rabi,2,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-02-26,37.87,9299,6791,72,Rabi,2,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-02-26,40.29,15165,10043,66,Rabi,2,Wednesday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-02-26,973.68,817,487,58,Rabi,2,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-02-27,1008.29,550,409,80,Rabi,2,Thursday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-02-27,124.14,6037,3713,64,Rabi,2,Thursday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-02-27,846.58,712,388,59,Rabi,2,Thursday,Grade B
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-02-27,162.49,6110,3467,56,Rabi,2,Thursday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-02-28,1018.37,672,444,67,Rabi,2,Friday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-02-28,50.53,38206,21063,59,Rabi,2,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-02-28,191.65,5972,3357,57,Rabi,2,Friday,Organic Certified
+Sharbati Wheat,Grains,Sehore Mandi,2025-03-01,37.05,34260,16205,55,Summer,3,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-03-01,51.83,27341,17451,70,Summer,3,Saturday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-03-01,935.45,570,416,70,Summer,3,Saturday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2025-03-01,37.56,19796,16818,85,Summer,3,Saturday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-03-02,1521.45,473,310,73,Summer,3,Sunday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-03-02,1304.6,805,434,53,Summer,3,Sunday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-03-02,48.38,44783,26483,58,Summer,3,Sunday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2025-03-02,1222.96,829,540,65,Summer,3,Sunday,Grade B
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-03-03,27.21,47663,30435,70,Summer,3,Monday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-03-04,37.16,27492,19813,83,Summer,3,Tuesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-03-04,1772.73,794,557,78,Summer,3,Tuesday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-03-04,1624.08,880,596,67,Summer,3,Tuesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-03-05,1751.28,1058,549,50,Summer,3,Wednesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-03-05,1621.8,1090,500,50,Summer,3,Wednesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-03-05,25.51,54586,31671,67,Summer,3,Wednesday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-03-06,1325.82,1014,593,64,Summer,3,Thursday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2025-03-06,32.71,29007,16856,60,Summer,3,Thursday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-03-07,23.69,38748,24083,73,Summer,3,Friday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-03-07,21.22,34922,28341,83,Summer,3,Friday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-03-07,43.56,26183,17462,78,Summer,3,Friday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2025-03-08,29.47,25300,19863,81,Summer,3,Saturday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2025-03-08,1695.11,631,492,76,Summer,3,Saturday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-03-08,2015.94,633,421,75,Summer,3,Saturday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2025-03-08,28.75,56034,26255,55,Summer,3,Saturday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-03-09,246.34,6567,3575,61,Summer,3,Sunday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2025-03-09,27.42,11647,8225,71,Summer,3,Sunday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-03-09,207.63,5568,3808,71,Summer,3,Sunday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-03-09,24.05,16037,8178,58,Summer,3,Sunday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-03-10,42.89,29822,22797,82,Summer,3,Monday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-03-10,27.35,35312,22867,72,Summer,3,Monday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-03-10,1708.43,1003,607,61,Summer,3,Monday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-03-11,28.67,13677,8033,67,Summer,3,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-03-11,27.73,9272,7082,83,Summer,3,Tuesday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-03-12,1973.99,720,505,70,Summer,3,Wednesday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-03-12,1093.96,764,452,63,Summer,3,Wednesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-03-13,1713.75,792,558,78,Summer,3,Thursday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-03-13,166.31,6839,3826,64,Summer,3,Thursday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-03-13,29.73,16732,7906,54,Summer,3,Thursday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2025-03-14,33.99,24669,18091,78,Summer,3,Friday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-03-14,1057.28,791,416,53,Summer,3,Friday,Grade B
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-03-15,27.33,11203,7461,74,Summer,3,Saturday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-03-16,23.55,39758,27557,67,Summer,3,Sunday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-03-16,1239.24,586,349,65,Summer,3,Sunday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-03-16,1286.84,683,469,72,Summer,3,Sunday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2025-03-16,1592.21,722,518,74,Summer,3,Sunday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-03-16,1395.37,987,638,67,Summer,3,Sunday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2025-03-17,1593.5,634,520,80,Summer,3,Monday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-03-17,38.4,26352,18247,69,Summer,3,Monday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-03-18,211.93,3825,3221,85,Summer,3,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-03-18,247.12,4555,3818,80,Summer,3,Tuesday,Organic Certified
+Sharbati Wheat,Grains,Sehore Mandi,2025-03-18,40.18,29001,22629,75,Summer,3,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-03-19,211.01,3825,3289,86,Summer,3,Wednesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-03-19,55.33,39974,27687,69,Summer,3,Wednesday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-03-19,37.03,32189,23182,70,Summer,3,Wednesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-03-19,45.61,43624,25547,58,Summer,3,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-03-20,21.92,56829,36299,65,Summer,3,Thursday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-03-21,22.29,57906,31743,63,Summer,3,Friday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-03-21,57.25,38352,26080,71,Summer,3,Friday,Organic Certified
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-03-21,204.73,4067,2550,71,Summer,3,Friday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-03-22,26.51,33680,21824,74,Summer,3,Saturday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2025-03-22,30.55,9915,6979,77,Summer,3,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-03-22,45.61,25815,19438,84,Summer,3,Saturday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-03-23,24.52,60816,36088,61,Summer,3,Sunday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-03-23,1750.39,1083,549,57,Summer,3,Sunday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-03-23,33.81,27352,19779,75,Summer,3,Sunday,Grade B
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-03-24,211.48,6070,3218,62,Summer,3,Monday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-03-24,1147.54,494,290,69,Summer,3,Monday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-03-24,1007.86,541,340,71,Summer,3,Monday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-03-24,175.26,6853,3047,51,Summer,3,Monday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-03-24,35.45,45864,23318,51,Summer,3,Monday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-03-26,39.79,43717,25190,56,Summer,3,Wednesday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-03-26,39.33,33585,20199,59,Summer,3,Wednesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-03-26,32.22,16031,7809,57,Summer,3,Wednesday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-03-27,1436.83,818,457,62,Summer,3,Thursday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-03-27,162.91,6240,3288,57,Summer,3,Thursday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2025-03-27,50.48,24775,16157,70,Summer,3,Thursday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2025-03-27,43.77,26501,22800,84,Summer,3,Thursday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2025-03-27,41.35,29297,22420,73,Summer,3,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-03-28,1012.3,524,439,80,Summer,3,Friday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-03-28,36.69,32089,18874,68,Summer,3,Friday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-03-28,1754.15,733,519,71,Summer,3,Friday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-03-28,1388.38,572,363,68,Summer,3,Friday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2025-03-29,1784.12,870,558,65,Summer,3,Saturday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-03-29,32.55,30538,17991,68,Summer,3,Saturday,Grade B
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-03-29,23.46,61391,33310,53,Summer,3,Saturday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2025-03-29,30.89,13127,9575,72,Summer,3,Saturday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-03-29,1417.75,785,488,61,Summer,3,Saturday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2025-03-30,34.08,28457,17793,70,Summer,3,Sunday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-03-30,1600.23,1042,575,57,Summer,3,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-03-30,1098.1,619,324,60,Summer,3,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-03-30,852.96,727,471,67,Summer,3,Sunday,Grade B
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-03-30,31.8,16512,8819,53,Summer,3,Sunday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-03-31,39.39,32490,22315,72,Summer,3,Monday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-03-31,1932.91,834,658,76,Summer,3,Monday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2025-03-31,30.8,40415,24281,69,Summer,3,Monday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2025-04-01,1897.22,713,479,70,Summer,4,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-04-02,203.46,6383,4284,67,Summer,4,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-04-02,35.93,34535,24545,69,Summer,4,Wednesday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2025-04-02,47.47,44039,22289,56,Summer,4,Wednesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-04-02,27.66,9980,6738,70,Summer,4,Wednesday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-04-03,36.71,28669,16707,62,Summer,4,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-04-03,1075.43,488,368,74,Summer,4,Thursday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-04-03,44.03,22771,19075,82,Summer,4,Thursday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2025-04-03,48.93,25429,18390,70,Summer,4,Thursday,Organic Certified
+Sharbati Wheat,Grains,Sehore Mandi,2025-04-03,34.82,29344,19098,65,Summer,4,Thursday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-04-04,34.16,39206,19958,59,Summer,4,Friday,Grade B
+Sharbati Wheat,Grains,Sehore Mandi,2025-04-05,39.85,20464,16645,81,Summer,4,Saturday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-04-05,195.64,4721,3505,79,Summer,4,Saturday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-04-06,1524.45,623,526,81,Summer,4,Sunday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-04-07,1759.41,637,523,80,Summer,4,Monday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-04-07,36.91,32403,24346,74,Summer,4,Monday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-04-08,1457.63,668,511,76,Summer,4,Tuesday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-04-08,1022.66,815,395,56,Summer,4,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-04-08,34.88,12844,6936,59,Summer,4,Tuesday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2025-04-08,33.21,25904,19649,80,Summer,4,Tuesday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-04-09,39.07,36298,18107,57,Summer,4,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-04-10,24.71,43637,28761,69,Summer,4,Thursday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2025-04-10,28.32,14365,9357,69,Summer,4,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-04-10,1023.73,466,321,78,Summer,4,Thursday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-04-11,49.4,44114,21829,55,Summer,4,Friday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2025-04-11,34.77,32863,17276,59,Summer,4,Friday,Grade B
+Sharbati Wheat,Grains,Bhopal Mandi,2025-04-11,27.83,32832,20259,65,Summer,4,Friday,Grade B
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-04-12,238.56,5589,2925,59,Summer,4,Saturday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-04-12,1541.15,777,473,66,Summer,4,Saturday,Organic Certified
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-04-12,25.46,9934,6125,70,Summer,4,Saturday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-04-12,1398.33,580,395,75,Summer,4,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-04-13,37.21,38105,23718,70,Summer,4,Sunday,Grade B
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-04-13,153.96,4182,3040,71,Summer,4,Sunday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2025-04-13,31.1,42885,22478,54,Summer,4,Sunday,Grade B
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-04-13,24.6,45757,34525,72,Summer,4,Sunday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-04-14,27.87,43436,26307,66,Summer,4,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-04-14,206.66,6843,2974,50,Summer,4,Monday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-04-14,40.8,35069,24256,66,Summer,4,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-04-14,22.86,13320,8382,65,Summer,4,Monday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2025-04-16,1758.56,612,500,80,Summer,4,Wednesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-04-16,1235.0,508,329,71,Summer,4,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-04-16,28.25,61731,32715,59,Summer,4,Wednesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-04-17,1251.27,468,336,72,Summer,4,Thursday,Organic Certified
+Sharbati Wheat,Grains,Indore Mandi,2025-04-17,36.63,26834,19283,71,Summer,4,Thursday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-04-17,55.02,36452,25492,72,Summer,4,Thursday,Organic Certified
+Vine Tomatoes,Vegetables,Surat Mandi,2025-04-17,26.88,11665,9417,77,Summer,4,Thursday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-04-18,30.02,9121,6207,74,Summer,4,Friday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-04-18,40.74,41074,20932,58,Summer,4,Friday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-04-18,1389.81,963,553,61,Summer,4,Friday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2025-04-19,39.43,29609,21353,75,Summer,4,Saturday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-04-19,1422.14,720,561,76,Summer,4,Saturday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-04-19,38.37,22352,15971,82,Summer,4,Saturday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-04-19,36.04,34101,25223,76,Summer,4,Saturday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-04-19,35.31,34175,18737,62,Summer,4,Saturday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-04-19,47.83,22363,16108,75,Summer,4,Saturday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2025-04-19,38.46,32009,20079,66,Summer,4,Saturday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-04-19,32.32,22318,14057,71,Summer,4,Saturday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-04-20,191.79,4689,3174,67,Summer,4,Sunday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-04-20,24.12,13196,9067,70,Summer,4,Sunday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-04-21,33.53,29762,17521,62,Summer,4,Monday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-04-22,35.14,35013,22444,66,Summer,4,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-04-22,221.71,6682,4274,63,Summer,4,Tuesday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-04-22,1942.47,1073,667,62,Summer,4,Tuesday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-04-22,1652.95,1097,536,56,Summer,4,Tuesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-04-22,45.37,47345,28056,58,Summer,4,Tuesday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-04-22,22.85,59997,32513,63,Summer,4,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-04-23,31.64,8738,5724,75,Summer,4,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-04-24,48.54,25572,16987,75,Summer,4,Thursday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-04-24,1411.59,627,406,66,Summer,4,Thursday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2025-04-24,41.53,27123,19091,78,Summer,4,Thursday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-04-24,177.53,6552,3298,56,Summer,4,Thursday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-04-25,263.67,6410,3510,61,Summer,4,Friday,Organic Certified
+Sharbati Wheat,Grains,Sehore Mandi,2025-04-25,32.13,23561,15261,69,Summer,4,Friday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-04-25,39.91,27048,19118,76,Summer,4,Friday,Organic Certified
+Sharbati Wheat,Grains,Sehore Mandi,2025-04-25,40.01,29519,20395,69,Summer,4,Friday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2025-04-26,24.24,57699,28815,55,Summer,4,Saturday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-04-26,45.79,30000,21009,76,Summer,4,Saturday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-04-26,1599.18,918,575,60,Summer,4,Saturday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-04-27,37.03,25143,20659,81,Summer,4,Sunday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-04-27,50.74,31122,21809,77,Summer,4,Sunday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-04-28,177.25,5948,3468,66,Summer,4,Monday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-04-28,40.38,21743,16668,74,Summer,4,Monday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2025-04-28,25.31,35864,25350,71,Summer,4,Monday,Organic Certified
+Vine Tomatoes,Vegetables,Surat Mandi,2025-04-29,26.26,12508,7384,68,Summer,4,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-04-30,207.98,4341,3453,76,Summer,4,Wednesday,Organic Certified
+Vine Tomatoes,Vegetables,Surat Mandi,2025-05-01,24.51,16234,8961,58,Summer,5,Thursday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-05-01,21.0,60304,31383,56,Summer,5,Thursday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-05-01,57.27,36355,19232,60,Summer,5,Thursday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-05-02,41.04,44095,22593,56,Summer,5,Friday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-05-02,1770.76,607,418,71,Summer,5,Friday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-05-03,44.91,23043,17632,80,Summer,5,Saturday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-05-03,42.08,24778,22432,87,Summer,5,Saturday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-05-03,1761.12,660,580,84,Summer,5,Saturday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-05-03,28.02,40898,27645,66,Summer,5,Saturday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2025-05-03,47.87,33710,23592,68,Summer,5,Saturday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2025-05-03,38.45,26006,17734,76,Summer,5,Saturday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2025-05-03,24.08,11789,8819,74,Summer,5,Saturday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-05-04,31.88,25534,17318,79,Summer,5,Sunday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-05-05,2143.28,692,479,81,Summer,5,Monday,Organic Certified
+Vine Tomatoes,Vegetables,Pune Market,2025-05-05,27.65,16390,8516,59,Summer,5,Monday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-05-05,189.93,4765,3131,64,Summer,5,Monday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-05-05,40.74,25064,21853,87,Summer,5,Monday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-05-06,1261.99,490,402,81,Summer,5,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-05-06,224.78,5784,3228,58,Summer,5,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-05-06,170.04,6784,3540,55,Summer,5,Tuesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-05-06,43.91,27978,21043,76,Summer,5,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-05-07,31.65,11710,6826,64,Summer,5,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-05-07,37.31,31460,22021,70,Summer,5,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-05-07,1201.15,767,448,63,Summer,5,Wednesday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-05-07,40.03,30849,18736,64,Summer,5,Wednesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-05-07,1199.75,664,511,77,Summer,5,Wednesday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2025-05-08,30.62,27440,21457,76,Summer,5,Thursday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-05-08,1237.57,606,411,68,Summer,5,Thursday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-05-09,41.73,26788,19455,75,Summer,5,Friday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-05-09,963.16,759,486,68,Summer,5,Friday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-05-10,28.81,9261,6165,69,Summer,5,Saturday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-05-10,31.36,34215,22183,69,Summer,5,Saturday,Grade B
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-05-10,240.22,3599,3016,82,Summer,5,Saturday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-05-10,1322.65,639,413,72,Summer,5,Saturday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-05-10,31.05,14846,7664,60,Summer,5,Saturday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-05-11,1416.26,1026,598,66,Summer,5,Sunday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-05-11,1783.44,743,569,74,Summer,5,Sunday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-05-12,28.73,46567,26999,61,Summer,5,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-05-12,22.03,14633,7925,54,Summer,5,Monday,Grade B
+Vine Tomatoes,Vegetables,Surat Mandi,2025-05-12,30.13,11759,8717,72,Summer,5,Monday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-05-13,45.22,32084,23864,76,Summer,5,Tuesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-05-13,1589.49,968,633,69,Summer,5,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-05-14,30.23,14164,7802,57,Summer,5,Wednesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2025-05-14,34.1,8410,6822,85,Summer,5,Wednesday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-05-14,176.68,4254,3217,76,Summer,5,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-05-14,26.61,11502,8455,79,Summer,5,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-05-14,27.73,8744,5982,77,Summer,5,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-05-15,29.36,14678,7708,59,Summer,5,Thursday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-05-15,33.44,10398,6742,76,Summer,5,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-05-15,28.47,50777,32051,65,Summer,5,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-05-15,25.11,55609,27755,53,Summer,5,Thursday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-05-16,1028.93,457,290,73,Summer,5,Friday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-05-16,39.2,31533,20212,73,Summer,5,Friday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-05-16,35.77,30075,22968,81,Summer,5,Friday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-05-17,1998.73,902,477,62,Summer,5,Saturday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2025-05-17,31.79,28939,17094,60,Summer,5,Saturday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-05-18,40.55,26641,16231,69,Summer,5,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-05-18,1025.13,570,380,67,Summer,5,Sunday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-05-18,172.58,5563,3568,74,Summer,5,Sunday,Grade B
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-05-19,33.5,12405,7199,60,Summer,5,Monday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2025-05-21,1761.74,921,603,65,Summer,5,Wednesday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-05-21,39.7,36740,17452,55,Summer,5,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-05-22,24.28,37872,24517,71,Summer,5,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-05-22,1289.74,467,391,84,Summer,5,Thursday,Organic Certified
+Sharbati Wheat,Grains,Indore Mandi,2025-05-22,38.8,38604,16659,48,Summer,5,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-05-22,40.08,35523,23439,75,Summer,5,Thursday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-05-22,197.98,5654,3538,68,Summer,5,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-05-22,35.59,31897,19616,67,Summer,5,Thursday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-05-22,1592.44,605,521,83,Summer,5,Thursday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-05-23,33.17,36324,20887,64,Summer,5,Friday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-05-24,240.42,5667,4009,68,Summer,5,Saturday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-05-24,228.85,4368,3294,75,Summer,5,Saturday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2025-05-24,22.05,49258,26576,59,Summer,5,Saturday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-05-25,23.97,11313,7396,74,Summer,5,Sunday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-05-25,20.92,11507,7337,68,Summer,5,Sunday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2025-05-26,1511.98,1107,714,63,Summer,5,Monday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-05-26,25.74,11554,6560,66,Summer,5,Monday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-05-26,970.52,662,433,71,Summer,5,Monday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-05-26,872.82,427,338,83,Summer,5,Monday,Grade B
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-05-27,226.65,4761,3725,76,Summer,5,Tuesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-05-27,34.14,11116,6339,65,Summer,5,Tuesday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-05-27,1626.31,613,455,82,Summer,5,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-05-28,199.52,4040,3374,83,Summer,5,Wednesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-05-28,1380.06,757,510,76,Summer,5,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-05-28,21.84,49215,33595,71,Summer,5,Wednesday,Grade B
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-05-28,20.78,44046,25648,64,Summer,5,Wednesday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2025-05-28,1817.31,1045,550,61,Summer,5,Wednesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-05-28,190.86,5101,4016,77,Summer,5,Wednesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-05-28,1525.1,888,537,58,Summer,5,Wednesday,Grade B
+Sharbati Wheat,Grains,Sehore Mandi,2025-05-28,38.89,38475,24235,60,Summer,5,Wednesday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-05-29,40.88,20270,16426,83,Summer,5,Thursday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-05-30,24.52,13270,8049,61,Summer,5,Friday,Grade B
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-05-31,24.81,46466,27111,62,Summer,5,Saturday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-05-31,1095.02,542,380,79,Summer,5,Saturday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-05-31,1634.74,722,447,65,Summer,5,Saturday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-05-31,196.84,6831,3144,54,Summer,5,Saturday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-05-31,1214.83,528,329,73,Summer,5,Saturday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-06-01,38.17,23466,16694,71,Kharif,6,Sunday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2025-06-01,40.3,29805,15978,59,Kharif,6,Sunday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-06-02,2161.56,599,453,75,Kharif,6,Monday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-06-02,67.55,26338,19821,73,Kharif,6,Monday,Organic Certified
+Vine Tomatoes,Vegetables,Surat Mandi,2025-06-02,29.08,8717,6535,83,Kharif,6,Monday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-06-02,26.03,46444,26624,65,Kharif,6,Monday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-06-03,934.97,478,402,85,Kharif,6,Tuesday,Grade B
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-06-03,24.85,56362,30636,59,Kharif,6,Tuesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-06-03,64.54,48030,27033,54,Kharif,6,Tuesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-06-04,40.56,14333,7622,57,Kharif,6,Wednesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-06-04,24.61,44737,36155,77,Kharif,6,Wednesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-06-04,170.17,5710,4353,73,Kharif,6,Wednesday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2025-06-04,1577.71,1046,576,55,Kharif,6,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-06-04,1015.65,459,355,82,Kharif,6,Wednesday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-06-05,35.6,22290,17226,81,Kharif,6,Thursday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-06-05,43.1,43786,25216,57,Kharif,6,Thursday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2025-06-05,33.59,29335,16703,64,Kharif,6,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-06-05,1180.44,508,360,72,Kharif,6,Thursday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-06-06,36.14,11946,7086,64,Kharif,6,Friday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-06-06,61.41,34125,25949,76,Kharif,6,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-06-06,189.25,4968,3156,62,Kharif,6,Friday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2025-06-07,40.27,22060,13156,69,Kharif,6,Saturday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-06-07,24.43,48840,33649,67,Kharif,6,Saturday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2025-06-07,43.48,16048,9869,60,Kharif,6,Saturday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-06-08,197.65,5589,3497,66,Kharif,6,Sunday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-06-08,21.75,47076,28357,67,Kharif,6,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-06-09,1258.11,551,353,67,Kharif,6,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-06-09,122.42,5147,3324,71,Kharif,6,Monday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-06-09,140.6,4730,3354,76,Kharif,6,Monday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-06-10,186.12,4743,3064,72,Kharif,6,Tuesday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2025-06-11,30.62,32129,22351,71,Kharif,6,Wednesday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2025-06-11,1633.3,1082,612,59,Kharif,6,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-06-11,1223.89,513,429,80,Kharif,6,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-06-12,43.8,34495,24954,69,Kharif,6,Thursday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-06-12,41.79,9940,6849,78,Kharif,6,Thursday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-06-13,154.38,6632,3866,59,Kharif,6,Friday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-06-13,64.18,36325,23822,74,Kharif,6,Friday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-06-14,18.55,62155,28514,52,Kharif,6,Saturday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-06-14,59.98,33895,21516,71,Kharif,6,Saturday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2025-06-15,24.86,48206,27582,59,Kharif,6,Sunday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-06-15,43.35,34978,18918,62,Kharif,6,Sunday,Grade B
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-06-15,177.82,6251,2977,54,Kharif,6,Sunday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-06-15,141.65,4703,3177,71,Kharif,6,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-06-15,1111.74,462,319,79,Kharif,6,Sunday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-06-16,1640.32,1031,598,61,Kharif,6,Monday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-06-16,33.58,20026,16489,85,Kharif,6,Monday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-06-17,1781.44,574,443,80,Kharif,6,Tuesday,Organic Certified
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-06-17,154.99,3872,2527,71,Kharif,6,Tuesday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-06-17,23.34,50976,30414,62,Kharif,6,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-06-18,151.58,3687,2661,81,Kharif,6,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-06-18,122.24,4117,2811,75,Kharif,6,Wednesday,Grade B
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-06-18,1425.14,622,421,65,Kharif,6,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-06-18,54.71,24740,18628,85,Kharif,6,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-06-19,169.56,4980,3507,68,Kharif,6,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-06-19,1047.75,831,411,48,Kharif,6,Thursday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-06-20,1103.39,783,359,52,Kharif,6,Friday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-06-20,1696.72,1049,568,54,Kharif,6,Friday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-06-20,1068.57,603,447,76,Kharif,6,Friday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-06-20,1674.26,632,460,70,Kharif,6,Friday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-06-20,24.86,34974,24199,79,Kharif,6,Friday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-06-20,2165.25,958,626,68,Kharif,6,Friday,Organic Certified
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-06-21,44.97,12878,7008,61,Kharif,6,Saturday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2025-06-21,1295.76,813,458,63,Kharif,6,Saturday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-06-21,1279.46,762,454,62,Kharif,6,Saturday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2025-06-22,27.56,48214,32316,65,Kharif,6,Sunday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2025-06-22,33.31,34990,16855,55,Kharif,6,Sunday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-06-22,61.91,41095,22745,59,Kharif,6,Sunday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-06-22,172.13,6909,3804,53,Kharif,6,Sunday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-06-23,58.57,29009,18834,68,Kharif,6,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2025-06-23,36.78,12271,8750,74,Kharif,6,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-06-23,199.19,4135,2595,69,Kharif,6,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-06-23,175.48,4480,3134,76,Kharif,6,Monday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2025-06-24,1684.62,993,567,65,Kharif,6,Tuesday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-06-24,981.89,498,354,81,Kharif,6,Tuesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-06-25,1684.39,898,528,58,Kharif,6,Wednesday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-06-25,42.73,20228,14880,86,Kharif,6,Wednesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2025-06-25,29.77,36449,32032,84,Kharif,6,Wednesday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-06-27,1263.39,508,324,73,Kharif,6,Friday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-06-27,1388.16,771,389,59,Kharif,6,Friday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-06-27,20.12,39450,29367,75,Kharif,6,Friday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-06-27,43.86,19834,14569,78,Kharif,6,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-06-28,138.7,5313,3621,69,Kharif,6,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-06-29,54.82,47381,24861,50,Kharif,6,Sunday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-06-29,22.92,45788,32169,73,Kharif,6,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-06-29,1219.65,667,423,73,Kharif,6,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-06-29,1171.66,503,324,71,Kharif,6,Sunday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-07-01,65.02,35866,26529,75,Kharif,7,Tuesday,Organic Certified
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-07-01,140.89,6353,3240,55,Kharif,7,Tuesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-07-01,1639.58,581,505,87,Kharif,7,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-07-01,37.81,11924,6674,65,Kharif,7,Tuesday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-07-01,59.53,38023,22782,60,Kharif,7,Tuesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-07-01,999.14,485,403,83,Kharif,7,Tuesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-07-02,52.9,32398,21753,67,Kharif,7,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-07-02,20.69,56601,33182,64,Kharif,7,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-07-04,20.96,40641,26615,73,Kharif,7,Friday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-07-04,27.97,9961,6372,74,Kharif,7,Friday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-07-04,54.78,27459,21209,77,Kharif,7,Friday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-07-05,1180.06,826,468,60,Kharif,7,Saturday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-07-05,1494.8,788,491,62,Kharif,7,Saturday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-07-05,1770.86,1000,503,53,Kharif,7,Saturday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-07-06,115.9,6216,3570,67,Kharif,7,Sunday,Grade B
+Sharbati Wheat,Grains,Sehore Mandi,2025-07-06,29.92,29286,21715,75,Kharif,7,Sunday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-07-06,146.86,6910,4131,63,Kharif,7,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-07-06,1320.89,770,400,59,Kharif,7,Sunday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2025-07-07,33.15,27213,17331,66,Kharif,7,Monday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-07-08,184.85,4884,3121,68,Kharif,7,Tuesday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-07-08,1751.68,967,634,64,Kharif,7,Tuesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-07-09,1540.84,664,407,68,Kharif,7,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-07-09,1430.26,572,366,70,Kharif,7,Wednesday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-07-10,216.56,6741,2871,50,Kharif,7,Thursday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2025-07-10,1873.5,630,520,83,Kharif,7,Thursday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-07-11,154.18,6735,3954,65,Kharif,7,Friday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-07-12,2001.08,680,493,73,Kharif,7,Saturday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-07-13,1531.66,757,422,63,Kharif,7,Sunday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2025-07-13,2037.01,915,503,63,Kharif,7,Sunday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-07-13,1239.67,495,325,77,Kharif,7,Sunday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-07-14,184.93,4740,3398,76,Kharif,7,Monday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2025-07-14,33.71,34014,18797,62,Kharif,7,Monday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-07-14,1609.47,741,523,78,Kharif,7,Monday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-07-14,33.51,13032,7985,67,Kharif,7,Monday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-07-14,53.13,42133,24360,61,Kharif,7,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2025-07-15,32.56,9296,7044,80,Kharif,7,Tuesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-07-15,48.42,48960,23351,56,Kharif,7,Tuesday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-07-16,1269.86,724,491,70,Kharif,7,Wednesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-07-16,41.61,11008,8365,79,Kharif,7,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-07-16,37.33,48260,26650,56,Kharif,7,Wednesday,Grade B
+Vine Tomatoes,Vegetables,Pune Market,2025-07-16,29.64,16453,8635,52,Kharif,7,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-07-16,37.12,11833,7873,65,Kharif,7,Wednesday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-07-16,41.34,37323,17689,50,Kharif,7,Wednesday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-07-17,36.67,33580,21116,61,Kharif,7,Thursday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-07-18,1912.88,877,527,59,Kharif,7,Friday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-07-18,1516.8,991,603,64,Kharif,7,Friday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2025-07-18,49.0,39054,27696,73,Kharif,7,Friday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-07-18,60.83,27144,21432,77,Kharif,7,Friday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2025-07-18,1446.92,679,513,83,Kharif,7,Friday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-07-19,147.32,5269,3682,75,Kharif,7,Saturday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2025-07-19,43.76,27309,18249,73,Kharif,7,Saturday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-07-19,45.01,33386,20852,73,Kharif,7,Saturday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-07-19,149.79,4745,3149,67,Kharif,7,Saturday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-07-19,27.33,55402,32684,58,Kharif,7,Saturday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-07-20,1369.11,1005,487,57,Kharif,7,Sunday,Grade B
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-07-22,160.53,4186,3124,83,Kharif,7,Tuesday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-07-22,32.56,30056,21141,73,Kharif,7,Tuesday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-07-22,50.34,27200,18097,75,Kharif,7,Tuesday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-07-22,23.92,44233,28361,74,Kharif,7,Tuesday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-07-22,40.93,25549,16702,73,Kharif,7,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-07-23,186.42,5695,3380,60,Kharif,7,Wednesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2025-07-23,36.42,12643,7855,63,Kharif,7,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-07-24,118.52,4375,3631,81,Kharif,7,Thursday,Grade B
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-07-24,27.51,41267,32862,76,Kharif,7,Thursday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2025-07-24,56.03,38069,22787,59,Kharif,7,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-07-24,22.63,37784,24900,76,Kharif,7,Thursday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-07-25,36.07,14612,8403,61,Kharif,7,Friday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-07-25,26.14,59624,33528,64,Kharif,7,Friday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-07-25,26.16,35367,28857,82,Kharif,7,Friday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-07-26,18.84,52537,35670,70,Kharif,7,Saturday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-07-26,49.29,31141,22208,71,Kharif,7,Saturday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-07-26,42.53,12582,7679,64,Kharif,7,Saturday,Organic Certified
+Sharbati Wheat,Grains,Indore Mandi,2025-07-27,34.94,25628,15605,66,Kharif,7,Sunday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-07-28,1000.05,540,377,80,Kharif,7,Monday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-07-28,24.83,60496,29980,50,Kharif,7,Monday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-07-30,31.89,11443,7170,67,Kharif,7,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-07-30,983.57,627,352,66,Kharif,7,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-07-30,34.96,12872,7494,68,Kharif,7,Wednesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-07-30,1663.91,985,510,53,Kharif,7,Wednesday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-07-31,35.16,21513,16512,84,Kharif,7,Thursday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-07-31,20.04,48266,28256,64,Kharif,7,Thursday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-07-31,49.09,24991,17000,72,Kharif,7,Thursday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-07-31,161.13,4456,3007,69,Kharif,7,Thursday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-08-01,47.15,26489,18046,77,Kharif,8,Friday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-08-01,1067.66,593,392,72,Kharif,8,Friday,Grade B
+Nashik Red Onions,Vegetables,Nashik APMC,2025-08-01,22.91,33805,26301,84,Kharif,8,Friday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-08-01,28.12,44978,27706,69,Kharif,8,Friday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-08-01,1532.71,495,307,73,Kharif,8,Friday,Organic Certified
+Sharbati Wheat,Grains,Sehore Mandi,2025-08-01,31.39,25559,18024,75,Kharif,8,Friday,Grade B
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-08-02,31.36,15393,7318,52,Kharif,8,Saturday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-08-03,145.72,5924,3966,68,Kharif,8,Sunday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-08-03,20.74,54486,39949,70,Kharif,8,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-08-03,1018.2,536,403,75,Kharif,8,Sunday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-08-03,37.41,33140,16636,58,Kharif,8,Sunday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-08-03,1013.93,752,365,55,Kharif,8,Sunday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2025-08-03,55.03,25237,18274,75,Kharif,8,Sunday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-08-03,33.59,30293,21777,69,Kharif,8,Sunday,Grade B
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-08-04,25.05,8519,5945,76,Kharif,8,Monday,Grade B
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-08-05,44.06,13160,7463,66,Kharif,8,Tuesday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-08-05,52.26,37057,21031,64,Kharif,8,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-08-05,153.25,4158,3346,79,Kharif,8,Tuesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-08-06,47.36,39359,24437,70,Kharif,8,Wednesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-08-06,2077.87,1025,606,59,Kharif,8,Wednesday,Organic Certified
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-08-07,166.33,6859,3568,53,Kharif,8,Thursday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-08-07,1854.87,851,465,64,Kharif,8,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-08-08,53.29,46118,26937,65,Kharif,8,Friday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-08-08,41.78,28631,18087,71,Kharif,8,Friday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2025-08-09,44.82,19640,14076,83,Kharif,8,Saturday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-08-09,51.41,40597,22561,60,Kharif,8,Saturday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-08-10,25.17,61884,39672,63,Kharif,8,Sunday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-08-11,21.12,35914,25122,78,Kharif,8,Monday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2025-08-11,1635.21,981,595,66,Kharif,8,Monday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-08-11,25.04,50648,28830,59,Kharif,8,Monday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-08-12,22.36,50961,36026,72,Kharif,8,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-08-12,172.45,6405,3437,59,Kharif,8,Tuesday,Organic Certified
+Vine Tomatoes,Vegetables,Pune Market,2025-08-13,43.01,10489,7645,78,Kharif,8,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-08-14,47.66,33489,24685,72,Kharif,8,Thursday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-08-15,21.21,49097,37029,74,Kharif,8,Friday,Grade B
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-08-16,37.08,13722,8558,65,Kharif,8,Saturday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-08-16,1712.21,642,433,78,Kharif,8,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-08-16,48.72,32380,24649,78,Kharif,8,Saturday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-08-16,899.21,632,404,68,Kharif,8,Saturday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-08-16,195.98,5191,3546,76,Kharif,8,Saturday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2025-08-17,18.66,56324,32799,63,Kharif,8,Sunday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-08-17,1097.76,459,363,84,Kharif,8,Sunday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-08-17,24.79,48269,31499,65,Kharif,8,Sunday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-08-18,41.05,38128,23316,61,Kharif,8,Monday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2025-08-18,49.18,42147,26528,62,Kharif,8,Monday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-08-18,163.05,6757,4286,65,Kharif,8,Monday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-08-18,67.33,39216,24314,67,Kharif,8,Monday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2025-08-19,25.86,59690,27938,52,Kharif,8,Tuesday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-08-19,1461.56,692,431,62,Kharif,8,Tuesday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-08-19,1226.27,631,417,73,Kharif,8,Tuesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-08-19,1986.03,819,541,75,Kharif,8,Tuesday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-08-20,22.8,31753,26386,82,Kharif,8,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-08-20,133.38,4028,2479,71,Kharif,8,Wednesday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-08-20,48.22,27658,21297,81,Kharif,8,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-08-20,1018.78,810,358,49,Kharif,8,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-08-20,41.07,9025,6180,77,Kharif,8,Wednesday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-08-20,53.1,46605,28805,61,Kharif,8,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-08-20,61.95,41928,26612,66,Kharif,8,Wednesday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2025-08-20,29.26,23504,16110,76,Kharif,8,Wednesday,Grade B
+Sharbati Wheat,Grains,Sehore Mandi,2025-08-20,43.08,37095,19565,53,Kharif,8,Wednesday,Organic Certified
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-08-21,20.97,52143,33978,63,Kharif,8,Thursday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-08-21,31.47,35288,24091,78,Kharif,8,Thursday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2025-08-22,1173.41,1040,476,51,Kharif,8,Friday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-08-22,65.15,35356,22689,71,Kharif,8,Friday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2025-08-22,41.0,15707,10175,63,Kharif,8,Friday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-08-23,50.64,32595,23405,80,Kharif,8,Saturday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2025-08-23,29.75,24348,16824,67,Kharif,8,Saturday,Grade B
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-08-23,168.97,6816,4243,62,Kharif,8,Saturday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-08-23,140.38,4808,3263,76,Kharif,8,Saturday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-08-24,1058.81,467,371,84,Kharif,8,Sunday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-08-24,26.4,36651,28169,82,Kharif,8,Sunday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2025-08-25,38.98,8589,7107,80,Kharif,8,Monday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-08-26,1362.54,796,550,72,Kharif,8,Tuesday,Grade B
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-08-26,45.35,13895,8888,61,Kharif,8,Tuesday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2025-08-26,30.22,46941,32769,72,Kharif,8,Tuesday,Organic Certified
+Vine Tomatoes,Vegetables,Surat Mandi,2025-08-26,33.33,9315,6658,78,Kharif,8,Tuesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-08-27,56.51,42075,23652,57,Kharif,8,Wednesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-08-27,159.86,5927,3390,55,Kharif,8,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-08-27,22.18,31549,21419,72,Kharif,8,Wednesday,Grade B
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-08-28,1052.69,759,524,67,Kharif,8,Thursday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-08-28,44.83,26832,19278,76,Kharif,8,Thursday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-08-28,23.1,33340,27775,83,Kharif,8,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2025-08-28,32.03,51466,36809,71,Kharif,8,Thursday,Organic Certified
+Sharbati Wheat,Grains,Sehore Mandi,2025-08-29,37.52,31854,20467,69,Kharif,8,Friday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-08-29,23.71,60177,32036,52,Kharif,8,Friday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-08-29,156.04,3563,2626,80,Kharif,8,Friday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2025-08-29,21.95,59494,33935,55,Kharif,8,Friday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-08-29,132.77,6375,4299,66,Kharif,8,Friday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2025-08-29,1523.23,1021,674,64,Kharif,8,Friday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-08-30,44.04,34091,20532,69,Kharif,8,Saturday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-08-30,61.46,47356,30253,65,Kharif,8,Saturday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-08-30,1839.58,619,484,75,Kharif,8,Saturday,Organic Certified
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-08-31,39.29,15364,8631,65,Kharif,8,Sunday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-09-01,1716.64,949,668,68,Kharif,9,Monday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-09-01,154.54,6298,3931,72,Kharif,9,Monday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-09-02,59.55,26337,21820,86,Kharif,9,Tuesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2025-09-02,34.47,10302,8607,90,Kharif,9,Tuesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-09-02,18.43,62878,37768,70,Kharif,9,Tuesday,Grade B
+Sharbati Wheat,Grains,Sehore Mandi,2025-09-03,50.26,21348,16580,88,Kharif,9,Wednesday,Organic Certified
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-09-04,157.69,4312,3492,86,Kharif,9,Thursday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-09-04,38.84,15247,11076,72,Kharif,9,Thursday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-09-04,36.36,16104,10174,63,Kharif,9,Thursday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-09-04,47.19,31774,21941,70,Kharif,9,Thursday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2025-09-04,57.25,31035,28049,92,Kharif,9,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-09-04,56.43,34543,24162,76,Kharif,9,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-09-05,893.4,597,468,90,Kharif,9,Friday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-09-05,48.58,42589,33028,80,Kharif,9,Friday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-09-06,22.1,33990,33264,96,Kharif,9,Saturday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-09-07,1079.52,453,411,91,Kharif,9,Sunday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-09-07,44.41,33675,25186,84,Kharif,9,Sunday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-09-07,1717.56,1107,698,67,Kharif,9,Sunday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-09-08,1692.35,946,627,74,Kharif,9,Monday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-09-09,145.57,4063,3149,90,Kharif,9,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-09-10,212.31,6779,4612,72,Kharif,9,Wednesday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-09-11,1007.16,499,350,82,Kharif,9,Thursday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-09-11,44.76,36491,28479,80,Kharif,9,Thursday,Grade B
+Vine Tomatoes,Vegetables,Surat Mandi,2025-09-11,35.58,9969,8702,87,Kharif,9,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-09-11,1087.99,619,459,75,Kharif,9,Thursday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-09-11,138.51,5126,4178,83,Kharif,9,Thursday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-09-12,45.1,31483,24050,76,Kharif,9,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-09-12,171.93,5063,4268,81,Kharif,9,Friday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2025-09-12,37.8,32513,25716,83,Kharif,9,Friday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-09-12,56.27,37226,29239,80,Kharif,9,Friday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-09-12,1279.17,468,420,92,Kharif,9,Friday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2025-09-12,1324.66,1018,592,64,Kharif,9,Friday,Grade B
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-09-13,188.61,4864,3740,86,Kharif,9,Saturday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-09-13,1031.76,458,372,95,Kharif,9,Saturday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-09-13,43.54,33013,22004,78,Kharif,9,Saturday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-09-13,1676.17,929,718,78,Kharif,9,Saturday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-09-14,57.44,47990,30180,62,Kharif,9,Sunday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-09-14,156.66,5023,3736,84,Kharif,9,Sunday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-09-14,20.9,48212,34518,79,Kharif,9,Sunday,Grade B
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-09-15,30.47,34022,27509,87,Kharif,9,Monday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-09-15,50.52,26752,24485,88,Kharif,9,Monday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-09-15,48.01,40840,32485,76,Kharif,9,Monday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-09-16,35.1,14841,9246,65,Kharif,9,Tuesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-09-17,1901.16,720,574,78,Kharif,9,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-09-17,52.45,26354,26173,96,Kharif,9,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-09-17,168.06,3535,3095,87,Kharif,9,Wednesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-09-17,1052.63,822,609,72,Kharif,9,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-09-17,136.11,5502,3938,70,Kharif,9,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-09-18,34.69,12178,9116,83,Kharif,9,Thursday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-09-18,170.07,5367,3627,74,Kharif,9,Thursday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-09-18,1150.66,505,364,83,Kharif,9,Thursday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-09-19,56.09,27936,24565,94,Kharif,9,Friday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-09-19,40.27,34731,26961,79,Kharif,9,Friday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-09-19,38.22,13313,11335,85,Kharif,9,Friday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-09-20,17.54,44093,35163,80,Kharif,9,Saturday,Grade B
+Sharbati Wheat,Grains,Sehore Mandi,2025-09-20,46.26,38783,24299,63,Kharif,9,Saturday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-09-21,42.63,42227,32225,81,Kharif,9,Sunday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2025-09-21,1931.46,1002,709,81,Kharif,9,Sunday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-09-21,65.13,37996,28877,85,Kharif,9,Sunday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2025-09-22,25.48,53587,38629,75,Kharif,9,Monday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-09-22,133.2,6694,4727,72,Kharif,9,Monday,Grade B
+Sharbati Wheat,Grains,Sehore Mandi,2025-09-22,42.93,28235,25986,88,Kharif,9,Monday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2025-09-22,31.12,55735,41877,73,Kharif,9,Monday,Organic Certified
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-09-22,123.33,6541,3924,67,Kharif,9,Monday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-09-22,1194.09,807,609,77,Kharif,9,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-09-23,142.99,4470,3936,93,Kharif,9,Tuesday,Grade B
+Vine Tomatoes,Vegetables,Pune Market,2025-09-23,32.24,8800,7112,86,Kharif,9,Tuesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-09-23,1612.47,1061,730,75,Kharif,9,Tuesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-09-25,1242.27,693,451,74,Kharif,9,Thursday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-09-25,1948.33,764,664,83,Kharif,9,Thursday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-09-25,1082.7,759,543,77,Kharif,9,Thursday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-09-25,48.24,44183,29784,72,Kharif,9,Thursday,Grade B
+Sharbati Wheat,Grains,Bhopal Mandi,2025-09-25,36.53,24826,23354,91,Kharif,9,Thursday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-09-26,194.9,3541,3214,98,Kharif,9,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-09-26,119.58,4903,4137,87,Kharif,9,Friday,Grade B
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-09-26,18.83,48966,32655,75,Kharif,9,Friday,Grade B
+Vine Tomatoes,Vegetables,Surat Mandi,2025-09-27,36.36,12088,9233,76,Kharif,9,Saturday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2025-09-27,37.33,26982,21668,87,Kharif,9,Saturday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-09-27,160.28,4474,3735,80,Kharif,9,Saturday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-09-28,1648.77,1118,835,75,Kharif,9,Sunday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-09-28,58.68,31244,26492,93,Kharif,9,Sunday,Organic Certified
+Vine Tomatoes,Vegetables,Surat Mandi,2025-09-29,45.1,10796,8749,92,Kharif,9,Monday,Organic Certified
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-09-29,171.44,6335,3933,70,Kharif,9,Monday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-09-29,188.66,5490,4316,76,Kharif,9,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-09-29,179.8,4740,3379,81,Kharif,9,Monday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-10-01,1343.5,580,450,76,Rabi,10,Wednesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-10-01,979.17,527,417,85,Rabi,10,Wednesday,Grade B
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-10-01,29.06,34787,32966,92,Rabi,10,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-10-01,1256.02,535,438,83,Rabi,10,Wednesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-10-02,30.96,11481,8743,76,Rabi,10,Thursday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-10-02,1318.43,425,371,84,Rabi,10,Thursday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-10-02,30.6,10110,8818,88,Rabi,10,Thursday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-10-03,46.88,26772,22523,90,Rabi,10,Friday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-10-03,43.64,47391,30657,70,Rabi,10,Friday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-10-05,42.53,26847,25333,93,Rabi,10,Sunday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-10-06,1349.48,739,508,80,Rabi,10,Monday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-10-06,193.95,6922,4423,64,Rabi,10,Monday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2025-10-07,43.77,24873,21434,99,Rabi,10,Tuesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-10-07,1439.07,563,527,90,Rabi,10,Tuesday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2025-10-08,50.4,21215,15879,87,Rabi,10,Wednesday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-10-08,1419.42,892,684,81,Rabi,10,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-10-08,1233.55,826,618,72,Rabi,10,Wednesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-10-08,214.86,4992,3467,80,Rabi,10,Wednesday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2025-10-08,32.21,42479,33663,84,Rabi,10,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-10-09,1399.06,746,508,66,Rabi,10,Thursday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-10-09,1731.76,622,552,86,Rabi,10,Thursday,Organic Certified
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-10-09,37.21,11979,9181,83,Rabi,10,Thursday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-10-09,41.57,48409,29461,70,Rabi,10,Thursday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-10-10,2068.68,809,667,85,Rabi,10,Friday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-10-10,39.83,31463,25381,92,Rabi,10,Friday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-10-11,1255.1,474,425,89,Rabi,10,Saturday,Organic Certified
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-10-12,34.25,16135,10039,65,Rabi,10,Sunday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-10-12,36.24,41461,32432,88,Rabi,10,Sunday,Organic Certified
+Sharbati Wheat,Grains,Sehore Mandi,2025-10-12,48.99,20376,19162,96,Rabi,10,Sunday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-10-13,26.64,62146,43062,69,Rabi,10,Monday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-10-13,1250.83,786,503,70,Rabi,10,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-10-13,156.13,6819,4335,65,Rabi,10,Monday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-10-13,40.63,8558,7615,96,Rabi,10,Monday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-10-14,36.76,59764,43474,78,Rabi,10,Tuesday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-10-14,51.68,45114,31937,79,Rabi,10,Tuesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-10-15,42.17,12252,9576,78,Rabi,10,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-10-15,44.85,48415,31972,64,Rabi,10,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-10-16,30.41,37913,31370,87,Rabi,10,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-10-16,1246.22,496,474,92,Rabi,10,Thursday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-10-17,34.53,10068,8605,85,Rabi,10,Friday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-10-17,39.28,46800,31858,69,Rabi,10,Friday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-10-18,158.1,5344,3672,80,Rabi,10,Saturday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-10-18,1838.83,899,772,84,Rabi,10,Saturday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-10-18,34.51,56740,35766,65,Rabi,10,Saturday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-10-18,1106.16,518,393,82,Rabi,10,Saturday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-10-19,35.99,53661,37927,83,Rabi,10,Sunday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-10-19,33.69,16744,9835,69,Rabi,10,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-10-19,1242.93,484,408,89,Rabi,10,Sunday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-10-20,32.56,37805,32023,83,Rabi,10,Monday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-10-20,188.85,5019,4519,89,Rabi,10,Monday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-10-20,1055.37,494,356,84,Rabi,10,Monday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-10-21,31.95,44147,30633,71,Rabi,10,Tuesday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-10-21,1004.59,446,361,91,Rabi,10,Tuesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-10-21,1433.07,603,488,90,Rabi,10,Tuesday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-10-22,28.28,59388,43761,71,Rabi,10,Wednesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-10-23,39.43,43132,26786,66,Rabi,10,Thursday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-10-23,188.18,6642,4373,75,Rabi,10,Thursday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-10-23,135.43,4648,3403,79,Rabi,10,Thursday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-10-23,186.84,5263,3655,80,Rabi,10,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-10-23,36.4,49251,35458,79,Rabi,10,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-10-24,45.37,37103,24082,74,Rabi,10,Friday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-10-24,1341.39,671,520,78,Rabi,10,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-10-24,140.63,3710,3289,98,Rabi,10,Friday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-10-24,30.0,41064,30474,86,Rabi,10,Friday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-10-25,1161.03,598,400,77,Rabi,10,Saturday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-10-25,33.07,34352,30363,93,Rabi,10,Saturday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2025-10-25,1412.91,1008,647,73,Rabi,10,Saturday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-10-26,34.96,15822,9440,66,Rabi,10,Sunday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-10-27,26.14,47199,31181,75,Rabi,10,Monday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2025-10-28,55.86,29997,18591,71,Rabi,10,Tuesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-10-28,29.76,33524,26586,82,Rabi,10,Tuesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-10-28,36.55,59798,40766,65,Rabi,10,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-10-28,192.91,3566,2967,91,Rabi,10,Tuesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-10-28,32.78,9722,7312,85,Rabi,10,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-10-29,36.12,9279,7464,91,Rabi,10,Wednesday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2025-10-29,38.82,32215,25348,76,Rabi,10,Wednesday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2025-10-29,41.4,20474,18389,87,Rabi,10,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-10-30,34.45,11979,9701,88,Rabi,10,Thursday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-10-30,1746.86,772,601,82,Rabi,10,Thursday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-10-30,174.59,5870,4768,78,Rabi,10,Thursday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-10-30,38.23,47628,31265,65,Rabi,10,Thursday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-10-30,27.94,50889,36792,80,Rabi,10,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-10-30,1465.85,806,484,64,Rabi,10,Thursday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2025-10-30,1641.0,1053,698,71,Rabi,10,Thursday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-10-31,35.28,8518,6782,88,Rabi,10,Friday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-11-01,1164.52,486,427,93,Rabi,11,Saturday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-11-01,2036.47,936,637,78,Rabi,11,Saturday,Organic Certified
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-11-01,29.51,12748,10713,87,Rabi,11,Saturday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-11-02,29.11,13943,9429,72,Rabi,11,Sunday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2025-11-02,1583.28,748,614,84,Rabi,11,Sunday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-11-02,36.18,26055,21105,87,Rabi,11,Sunday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-11-02,33.13,15528,10439,66,Rabi,11,Sunday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-11-03,44.95,31961,28579,90,Rabi,11,Monday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-11-04,171.89,6775,3891,61,Rabi,11,Tuesday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-11-04,49.85,20535,17450,86,Rabi,11,Tuesday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-11-04,23.85,58595,37202,65,Rabi,11,Tuesday,Grade B
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-11-04,24.58,40807,30562,78,Rabi,11,Tuesday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-11-05,47.9,29121,24091,91,Rabi,11,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-11-05,36.2,37247,26084,75,Rabi,11,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-11-05,35.8,11762,9373,84,Rabi,11,Wednesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-11-05,42.86,47445,35147,76,Rabi,11,Wednesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-11-06,39.43,34629,26916,81,Rabi,11,Thursday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-11-06,2079.37,634,502,82,Rabi,11,Thursday,Organic Certified
+Vine Tomatoes,Vegetables,Pune Market,2025-11-06,30.62,12060,10118,83,Rabi,11,Thursday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-11-06,24.96,43253,31271,84,Rabi,11,Thursday,Grade B
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-11-07,34.45,54029,36444,78,Rabi,11,Friday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2025-11-07,52.66,34462,21847,69,Rabi,11,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-11-07,172.08,6629,4085,70,Rabi,11,Friday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-11-07,39.8,22400,18102,94,Rabi,11,Friday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-11-07,47.88,31078,21983,80,Rabi,11,Friday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-11-07,28.77,42971,39068,91,Rabi,11,Friday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-11-08,1088.21,663,500,80,Rabi,11,Saturday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-11-08,123.67,4082,3533,89,Rabi,11,Saturday,Grade B
+Sharbati Wheat,Grains,Bhopal Mandi,2025-11-08,48.42,24000,16700,79,Rabi,11,Saturday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-11-08,56.72,23958,19638,83,Rabi,11,Saturday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-11-10,138.71,4174,3417,82,Rabi,11,Monday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-11-11,38.87,10400,10080,93,Rabi,11,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-11-11,196.81,3857,3796,96,Rabi,11,Tuesday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2025-11-11,30.74,37904,30543,81,Rabi,11,Tuesday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2025-11-12,62.56,21316,20428,96,Rabi,11,Wednesday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-11-13,181.17,5956,3905,70,Rabi,11,Thursday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-11-14,198.16,4756,3770,78,Rabi,11,Friday,Organic Certified
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-11-15,27.51,45474,29965,77,Rabi,11,Saturday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-11-15,42.13,20315,19976,96,Rabi,11,Saturday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-11-15,1226.74,527,455,88,Rabi,11,Saturday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-11-16,1159.53,576,492,91,Rabi,11,Sunday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-11-16,168.28,4290,3545,91,Rabi,11,Sunday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-11-17,157.29,5983,4345,80,Rabi,11,Monday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-11-17,169.96,6102,4279,72,Rabi,11,Monday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-11-17,150.39,4831,3710,76,Rabi,11,Monday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-11-17,161.88,4751,3822,86,Rabi,11,Monday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-11-17,48.48,24070,17151,83,Rabi,11,Monday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-11-18,42.99,24842,19992,89,Rabi,11,Tuesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-11-18,47.12,48593,31462,66,Rabi,11,Tuesday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-11-18,34.74,25656,21879,92,Rabi,11,Tuesday,Grade B
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-11-19,35.89,53226,41269,75,Rabi,11,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-11-19,44.41,26960,24135,98,Rabi,11,Wednesday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-11-20,185.6,5371,3925,73,Rabi,11,Thursday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-11-20,130.83,6825,4405,75,Rabi,11,Thursday,Grade B
+Vine Tomatoes,Vegetables,Surat Mandi,2025-11-20,43.11,15432,11868,78,Rabi,11,Thursday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2025-11-21,42.27,13174,10236,81,Rabi,11,Friday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-11-21,33.01,11505,8969,81,Rabi,11,Friday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-11-21,968.69,605,479,81,Rabi,11,Friday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-11-21,37.38,26724,24145,98,Rabi,11,Friday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-11-22,28.27,34636,28322,86,Rabi,11,Saturday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-11-23,44.74,15857,11623,75,Rabi,11,Sunday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2025-11-23,1198.77,827,616,86,Rabi,11,Sunday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2025-11-24,44.52,27770,23583,86,Rabi,11,Monday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-11-24,40.39,33186,26115,77,Rabi,11,Monday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-11-24,30.45,38012,25796,79,Rabi,11,Monday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-11-24,1054.07,790,545,68,Rabi,11,Monday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-11-25,25.37,55714,38390,72,Rabi,11,Tuesday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-11-25,47.39,34685,25433,70,Rabi,11,Tuesday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-11-26,1109.29,822,536,75,Rabi,11,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-11-26,23.66,48309,36114,82,Rabi,11,Wednesday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-11-26,37.11,43223,27747,70,Rabi,11,Wednesday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2025-11-27,2163.73,608,524,96,Rabi,11,Thursday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-11-27,125.48,5522,4729,85,Rabi,11,Thursday,Grade B
+Vine Tomatoes,Vegetables,Pune Market,2025-11-27,32.46,8968,8678,95,Rabi,11,Thursday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2025-11-27,30.35,12996,9368,83,Rabi,11,Thursday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2025-11-28,56.13,36552,22602,63,Rabi,11,Friday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2025-11-28,37.17,15090,8778,67,Rabi,11,Friday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-11-28,48.91,25034,18092,78,Rabi,11,Friday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-11-28,43.98,42491,27540,76,Rabi,11,Friday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-11-28,29.32,9588,9588,97,Rabi,11,Friday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-11-29,36.95,30111,24049,79,Rabi,11,Saturday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-11-29,198.55,5110,3724,84,Rabi,11,Saturday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2025-11-29,47.49,16017,9432,66,Rabi,11,Saturday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2025-11-29,2055.4,565,479,95,Rabi,11,Saturday,Organic Certified
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-11-29,34.04,54437,42137,80,Rabi,11,Saturday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-11-29,53.75,44695,29418,68,Rabi,11,Saturday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2025-11-30,1727.3,658,522,92,Rabi,11,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-11-30,1030.29,623,423,74,Rabi,11,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-11-30,1179.39,754,572,81,Rabi,11,Sunday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-12-01,144.92,3761,2507,76,Rabi,12,Monday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-12-02,34.96,9160,6964,74,Rabi,12,Tuesday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-12-03,25.45,55859,34973,64,Rabi,12,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-12-03,39.56,45996,28445,62,Rabi,12,Wednesday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2025-12-03,31.67,50537,31534,63,Rabi,12,Wednesday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-12-04,1561.65,1021,520,56,Rabi,12,Thursday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-12-05,40.54,26680,19808,73,Rabi,12,Friday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2025-12-05,36.25,38421,22719,59,Rabi,12,Friday,Grade B
+Sharbati Wheat,Grains,Sehore Mandi,2025-12-06,56.33,26631,18165,72,Rabi,12,Saturday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-12-06,44.55,34715,20520,67,Rabi,12,Saturday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2025-12-06,1788.5,887,654,74,Rabi,12,Saturday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-12-07,156.06,5093,3702,71,Rabi,12,Sunday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-12-07,37.61,32253,22947,69,Rabi,12,Sunday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-12-08,48.6,46960,28912,59,Rabi,12,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2025-12-08,28.65,9651,7117,84,Rabi,12,Monday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2025-12-08,1398.93,851,494,68,Rabi,12,Monday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-12-08,1548.95,914,497,59,Rabi,12,Monday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-12-08,175.97,4041,2544,74,Rabi,12,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-12-08,198.38,6725,3830,61,Rabi,12,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-12-09,137.74,3547,2469,76,Rabi,12,Tuesday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2025-12-10,34.96,25222,19959,80,Rabi,12,Wednesday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2025-12-10,1798.01,864,657,74,Rabi,12,Wednesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-12-10,43.76,30755,22602,78,Rabi,12,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-12-10,162.12,4999,3217,67,Rabi,12,Wednesday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2025-12-10,1864.8,800,526,74,Rabi,12,Wednesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-12-10,147.6,3890,3011,74,Rabi,12,Wednesday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-12-12,53.98,34851,19161,62,Rabi,12,Friday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2025-12-13,38.36,21075,16585,77,Rabi,12,Saturday,Grade B
+Sharbati Wheat,Grains,Bhopal Mandi,2025-12-13,35.34,34871,24442,67,Rabi,12,Saturday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2025-12-13,42.53,39646,27262,70,Rabi,12,Saturday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2025-12-13,35.73,46446,27740,61,Rabi,12,Saturday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2025-12-13,42.99,46554,24777,54,Rabi,12,Saturday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-12-13,34.89,16467,9208,63,Rabi,12,Saturday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2025-12-14,48.76,29058,17179,68,Rabi,12,Sunday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2025-12-14,36.12,30815,21604,67,Rabi,12,Sunday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-12-14,2193.23,598,431,74,Rabi,12,Sunday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2025-12-15,1797.91,814,586,69,Rabi,12,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2025-12-15,150.79,6508,3677,61,Rabi,12,Monday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2025-12-15,27.96,60519,32067,52,Rabi,12,Monday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2025-12-16,35.8,38636,23826,70,Rabi,12,Tuesday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-12-16,1011.92,531,386,79,Rabi,12,Tuesday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-12-16,985.44,596,379,66,Rabi,12,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-12-17,161.5,6536,3748,59,Rabi,12,Wednesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-12-18,1252.48,859,655,74,Rabi,12,Thursday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-12-18,1558.43,670,415,61,Rabi,12,Thursday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2025-12-19,37.64,22306,16053,72,Rabi,12,Friday,Grade B
+Vine Tomatoes,Vegetables,Pune Market,2025-12-19,38.04,16593,8269,57,Rabi,12,Friday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2025-12-20,33.55,15368,10213,67,Rabi,12,Saturday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2025-12-20,2137.72,786,548,68,Rabi,12,Saturday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2025-12-20,2061.08,828,498,64,Rabi,12,Saturday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2025-12-21,52.72,42809,22870,60,Rabi,12,Sunday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2025-12-21,29.83,36182,21278,69,Rabi,12,Sunday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-12-21,37.7,27552,16132,62,Rabi,12,Sunday,Grade B
+Sharbati Wheat,Grains,Sehore Mandi,2025-12-21,41.46,19616,13269,76,Rabi,12,Sunday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2025-12-22,37.56,26694,19467,79,Rabi,12,Monday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2025-12-22,173.55,5246,3166,64,Rabi,12,Monday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2025-12-23,52.68,34129,22425,66,Rabi,12,Tuesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-12-23,1125.91,500,433,83,Rabi,12,Tuesday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-12-24,1395.35,635,398,64,Rabi,12,Wednesday,Organic Certified
+Sharbati Wheat,Grains,Sehore Mandi,2025-12-25,50.37,20705,15133,83,Rabi,12,Thursday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2025-12-27,1510.77,813,465,62,Rabi,12,Saturday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2025-12-27,29.08,10512,8302,77,Rabi,12,Saturday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2025-12-28,1081.0,504,336,67,Rabi,12,Sunday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2025-12-29,50.25,33759,20518,66,Rabi,12,Monday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2025-12-29,36.79,25637,19533,76,Rabi,12,Monday,Grade B
+Alphonso Mangoes,Fruits,Devgad Mandi,2025-12-30,173.87,3526,3127,87,Rabi,12,Tuesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2025-12-30,46.5,13698,8705,70,Rabi,12,Tuesday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2025-12-30,1052.84,447,316,79,Rabi,12,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-01-01,184.76,3850,2855,72,Rabi,1,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2026-01-01,28.34,40877,26146,66,Rabi,1,Thursday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-01-02,208.02,4892,3723,75,Rabi,1,Friday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-01-02,891.24,436,386,86,Rabi,1,Friday,Grade B
+Vine Tomatoes,Vegetables,Surat Mandi,2026-01-02,26.61,8731,7137,85,Rabi,1,Friday,Grade B
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-01-02,1382.51,682,391,64,Rabi,1,Friday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2026-01-02,57.51,38575,18455,50,Rabi,1,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-01-02,200.19,5181,3327,63,Rabi,1,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-01-03,134.76,6324,3995,66,Rabi,1,Saturday,Grade B
+Sharbati Wheat,Grains,Bhopal Mandi,2026-01-03,49.75,33330,18929,59,Rabi,1,Saturday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2026-01-03,1209.36,1046,605,58,Rabi,1,Saturday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2026-01-04,34.59,21311,16622,83,Rabi,1,Sunday,Grade B
+Sharbati Wheat,Grains,Bhopal Mandi,2026-01-04,49.61,36601,20665,63,Rabi,1,Sunday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-01-04,141.59,6455,3335,57,Rabi,1,Sunday,Grade B
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-01-05,1306.07,788,443,59,Rabi,1,Monday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2026-01-05,1441.43,798,518,75,Rabi,1,Monday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-01-05,35.4,13471,9236,69,Rabi,1,Monday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-01-06,36.47,14341,8632,68,Rabi,1,Tuesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-01-06,1635.54,811,537,74,Rabi,1,Tuesday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-01-07,51.53,38956,24999,64,Rabi,1,Wednesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-01-07,31.81,48972,27572,62,Rabi,1,Wednesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-01-08,1241.29,806,467,59,Rabi,1,Thursday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-01-08,1499.13,788,559,72,Rabi,1,Thursday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-01-08,43.19,28419,16978,68,Rabi,1,Thursday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-01-08,32.95,11208,7506,78,Rabi,1,Thursday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-01-08,45.1,39917,26519,71,Rabi,1,Thursday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-01-08,39.4,26921,20491,80,Rabi,1,Thursday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-01-09,31.19,12131,8495,70,Rabi,1,Friday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-01-09,146.28,3942,2610,76,Rabi,1,Friday,Grade B
+Sharbati Wheat,Grains,Bhopal Mandi,2026-01-10,35.59,29578,19288,76,Rabi,1,Saturday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-01-10,1096.37,530,410,81,Rabi,1,Saturday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-01-10,1172.99,802,394,52,Rabi,1,Saturday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-01-11,26.33,43318,30886,71,Rabi,1,Sunday,Grade B
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-01-11,24.52,61503,36191,62,Rabi,1,Sunday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2026-01-12,37.47,27772,19077,73,Rabi,1,Monday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-01-12,33.65,31944,26340,88,Rabi,1,Monday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-01-13,1820.68,946,555,59,Rabi,1,Tuesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-01-13,1141.3,741,435,63,Rabi,1,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-01-13,160.47,6742,3392,56,Rabi,1,Tuesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-01-13,46.31,36651,24057,74,Rabi,1,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-01-14,160.32,3800,2831,85,Rabi,1,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-01-14,1425.09,659,452,72,Rabi,1,Wednesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-01-14,1101.08,427,330,83,Rabi,1,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-01-15,184.39,3544,3055,85,Rabi,1,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-01-15,25.26,38256,32226,81,Rabi,1,Thursday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-01-16,38.51,32990,24532,82,Rabi,1,Friday,Organic Certified
+Vine Tomatoes,Vegetables,Surat Mandi,2026-01-16,34.52,13285,9867,73,Rabi,1,Friday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-01-16,44.27,24736,17691,72,Rabi,1,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-01-16,187.82,4045,2955,75,Rabi,1,Friday,Organic Certified
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-01-17,150.2,5077,3451,65,Rabi,1,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-01-17,42.09,37029,22132,64,Rabi,1,Saturday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-01-18,1237.04,619,357,65,Rabi,1,Sunday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-01-18,1131.09,775,419,56,Rabi,1,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-01-19,1342.78,785,457,63,Rabi,1,Monday,Organic Certified
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-01-19,151.39,5726,3272,57,Rabi,1,Monday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-01-19,31.63,61211,36122,58,Rabi,1,Monday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-01-19,48.81,40055,25705,63,Rabi,1,Monday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2026-01-20,1797.08,986,633,68,Rabi,1,Tuesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-01-21,1523.68,767,562,73,Rabi,1,Wednesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-01-22,48.28,38133,21976,64,Rabi,1,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-01-22,36.53,42642,27030,62,Rabi,1,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-01-23,1164.49,473,339,69,Rabi,1,Friday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-01-23,1409.65,713,479,69,Rabi,1,Friday,Grade B
+Nashik Red Onions,Vegetables,Nashik APMC,2026-01-24,31.82,50888,31275,66,Rabi,1,Saturday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-01-24,31.98,13547,7814,65,Rabi,1,Saturday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-01-25,31.02,39954,23781,69,Rabi,1,Sunday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-01-25,44.65,33255,21195,74,Rabi,1,Sunday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2026-01-25,62.07,23769,17878,83,Rabi,1,Sunday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2026-01-25,24.93,33449,25915,76,Rabi,1,Sunday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-01-25,38.26,11662,8076,70,Rabi,1,Sunday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-01-26,34.2,16738,8151,57,Rabi,1,Monday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-01-26,2004.93,814,523,74,Rabi,1,Monday,Organic Certified
+Sharbati Wheat,Grains,Indore Mandi,2026-01-26,47.46,28890,16980,67,Rabi,1,Monday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-01-26,1434.85,587,340,62,Rabi,1,Monday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-01-27,907.23,648,440,74,Rabi,1,Tuesday,Grade B
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-01-27,31.99,10943,7456,68,Rabi,1,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-01-28,176.38,6861,3229,49,Rabi,1,Wednesday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-01-28,1254.93,687,411,62,Rabi,1,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-01-28,39.62,34747,23091,68,Rabi,1,Wednesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-01-29,37.74,40573,23369,56,Rabi,1,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-01-29,1134.3,798,543,66,Rabi,1,Thursday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-01-29,23.91,33527,22827,78,Rabi,1,Thursday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2026-01-30,1824.81,584,417,84,Rabi,1,Friday,Organic Certified
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-01-30,28.07,14595,7142,55,Rabi,1,Friday,Grade B
+Nashik Red Onions,Vegetables,Nashik APMC,2026-01-30,29.58,38072,30107,83,Rabi,1,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-01-30,126.08,6435,3753,61,Rabi,1,Friday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2026-01-31,54.56,40474,23047,60,Rabi,1,Saturday,Organic Certified
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-01-31,26.7,52276,28529,58,Rabi,1,Saturday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-01-31,40.76,27771,18321,75,Rabi,1,Saturday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-02-01,28.67,8434,6079,73,Rabi,2,Sunday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2026-02-02,1663.17,976,632,67,Rabi,2,Monday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-02-02,1390.43,894,524,57,Rabi,2,Monday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-02-02,31.34,58124,29206,56,Rabi,2,Monday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-02-04,1747.28,776,517,74,Rabi,2,Wednesday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-02-04,1092.36,671,390,58,Rabi,2,Wednesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-02-04,44.1,48123,23977,58,Rabi,2,Wednesday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-02-04,217.06,6628,3878,64,Rabi,2,Wednesday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2026-02-05,40.66,47527,28763,64,Rabi,2,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-02-05,979.18,584,357,68,Rabi,2,Thursday,Grade B
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-02-07,36.57,9690,6512,79,Rabi,2,Saturday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-02-07,1570.23,660,501,74,Rabi,2,Saturday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-02-07,32.99,36031,26082,81,Rabi,2,Saturday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-02-07,1374.66,666,423,63,Rabi,2,Saturday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-02-08,40.89,44398,25665,67,Rabi,2,Sunday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-02-08,26.36,36020,26230,81,Rabi,2,Sunday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-02-08,50.78,36351,26477,75,Rabi,2,Sunday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2026-02-08,44.85,14402,8763,68,Rabi,2,Sunday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2026-02-09,1515.9,1010,528,61,Rabi,2,Monday,Grade B
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-02-09,839.16,476,311,75,Rabi,2,Monday,Grade B
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-02-09,32.03,8665,6936,77,Rabi,2,Monday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-02-09,29.45,50448,36021,73,Rabi,2,Monday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-02-10,143.44,6980,3685,59,Rabi,2,Tuesday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-02-10,1258.98,646,402,68,Rabi,2,Tuesday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-02-12,50.96,33555,21166,74,Rabi,2,Thursday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2026-02-12,48.1,33485,18239,63,Rabi,2,Thursday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-02-12,1938.36,677,477,74,Rabi,2,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-02-12,24.97,36804,25974,83,Rabi,2,Thursday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-02-12,33.83,12713,6848,61,Rabi,2,Thursday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-02-12,41.5,29081,21161,75,Rabi,2,Thursday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2026-02-12,1411.54,612,512,82,Rabi,2,Thursday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-02-12,38.2,45459,23379,59,Rabi,2,Thursday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-02-13,174.69,3984,2905,84,Rabi,2,Friday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-02-13,989.45,599,387,70,Rabi,2,Friday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-02-13,40.15,26578,19620,73,Rabi,2,Friday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-02-13,41.84,48895,26135,56,Rabi,2,Friday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-02-13,37.74,42222,25576,64,Rabi,2,Friday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-02-13,190.21,5565,2948,61,Rabi,2,Friday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-02-14,1118.52,560,428,78,Rabi,2,Saturday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-02-15,27.61,38359,26291,75,Rabi,2,Sunday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-02-16,55.85,24168,15004,66,Rabi,2,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2026-02-16,31.45,9566,7051,72,Rabi,2,Monday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2026-02-16,1891.23,676,498,79,Rabi,2,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-02-18,42.57,10468,6830,67,Rabi,2,Wednesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-02-18,34.05,8401,6268,74,Rabi,2,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-02-19,216.75,5606,3675,72,Rabi,2,Thursday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2026-02-19,29.96,32316,23960,80,Rabi,2,Thursday,Grade B
+Vine Tomatoes,Vegetables,Pune Market,2026-02-20,31.24,14256,9003,64,Rabi,2,Friday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-02-21,59.49,36960,23800,62,Rabi,2,Saturday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2026-02-21,32.35,26462,21238,85,Rabi,2,Saturday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2026-02-22,2065.53,629,432,72,Rabi,2,Sunday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2026-02-22,35.32,16633,8391,55,Rabi,2,Sunday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-02-22,41.96,12618,6902,64,Rabi,2,Sunday,Organic Certified
+Vine Tomatoes,Vegetables,Pune Market,2026-02-22,36.79,11261,8551,80,Rabi,2,Sunday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-02-23,2043.25,714,557,75,Rabi,2,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-02-24,158.43,3523,2744,80,Rabi,2,Tuesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-02-24,35.3,42151,24928,64,Rabi,2,Tuesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-02-25,1607.31,881,486,63,Rabi,2,Wednesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-02-25,31.0,57344,31857,57,Rabi,2,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-02-26,30.98,36854,25072,70,Rabi,2,Thursday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-02-26,136.36,5792,3214,56,Rabi,2,Thursday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-02-26,38.11,32239,16381,56,Rabi,2,Thursday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-02-27,1355.47,559,434,77,Rabi,2,Friday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-02-27,41.23,27847,19596,72,Rabi,2,Friday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2026-02-27,37.97,33827,19863,61,Rabi,2,Friday,Grade B
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-02-27,1439.52,749,414,65,Rabi,2,Friday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2026-02-28,1838.64,908,637,72,Rabi,2,Saturday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-02-28,35.77,47738,25139,54,Rabi,2,Saturday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-02-28,57.41,34128,16625,54,Rabi,2,Saturday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2026-02-28,29.83,15969,8778,57,Rabi,2,Saturday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-02-28,58.25,30450,21606,70,Rabi,2,Saturday,Organic Certified
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-02-28,156.64,4125,3083,83,Rabi,2,Saturday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-02-28,1431.0,452,347,83,Rabi,2,Saturday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2026-02-28,36.59,9991,7378,82,Rabi,2,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-03-01,44.09,39583,22037,65,Summer,3,Sunday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-03-01,37.86,28483,19290,66,Summer,3,Sunday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-03-02,1500.86,984,581,59,Summer,3,Monday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-03-02,1080.4,566,383,69,Summer,3,Monday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-03-02,1410.9,727,458,68,Summer,3,Monday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2026-03-03,34.69,23204,17090,82,Summer,3,Tuesday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-03-03,1246.2,743,384,53,Summer,3,Tuesday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2026-03-03,1854.47,838,542,63,Summer,3,Tuesday,Organic Certified
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-03-03,31.93,13332,9613,72,Summer,3,Tuesday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-03-03,1243.65,685,447,67,Summer,3,Tuesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-03-04,42.27,48278,26316,58,Summer,3,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-03-04,35.94,44561,21918,52,Summer,3,Wednesday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-03-04,41.13,31804,20321,68,Summer,3,Wednesday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-03-05,20.49,61585,29671,55,Summer,3,Thursday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-03-05,46.57,23162,13551,68,Summer,3,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-03-07,43.45,39223,22724,63,Summer,3,Saturday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-03-08,206.04,4763,3314,70,Summer,3,Sunday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-03-08,41.27,45298,20786,53,Summer,3,Sunday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-03-09,21.02,61652,31662,59,Summer,3,Monday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-03-09,259.95,6385,3644,60,Summer,3,Monday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2026-03-10,55.36,35745,22592,67,Summer,3,Tuesday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2026-03-11,1572.74,729,572,77,Summer,3,Wednesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-03-11,31.73,44804,28520,65,Summer,3,Wednesday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2026-03-11,1619.92,850,566,64,Summer,3,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-03-12,1378.38,712,422,69,Summer,3,Thursday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-03-12,1267.47,517,318,68,Summer,3,Thursday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2026-03-12,41.46,23593,18563,75,Summer,3,Thursday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-03-12,1057.88,630,356,63,Summer,3,Thursday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-03-12,44.23,41044,24621,70,Summer,3,Thursday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-03-14,986.99,701,447,61,Summer,3,Saturday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-03-14,214.22,3681,2792,81,Summer,3,Saturday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-03-14,181.55,6886,3996,60,Summer,3,Saturday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-03-15,40.04,34998,20912,66,Summer,3,Sunday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2026-03-15,24.68,10616,6382,68,Summer,3,Sunday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-03-16,1523.07,1018,514,52,Summer,3,Monday,Grade B
+Vine Tomatoes,Vegetables,Pune Market,2026-03-16,23.87,14383,7782,57,Summer,3,Monday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-03-16,215.35,4841,2964,64,Summer,3,Monday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-03-16,38.41,26324,19740,74,Summer,3,Monday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-03-16,1473.65,602,381,70,Summer,3,Monday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2026-03-16,1758.08,1062,519,52,Summer,3,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2026-03-17,30.05,9152,7100,83,Summer,3,Tuesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-03-17,57.03,28056,18709,73,Summer,3,Tuesday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2026-03-17,41.31,39579,21835,60,Summer,3,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-03-18,29.1,11472,7943,75,Summer,3,Wednesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-03-18,1142.18,753,503,69,Summer,3,Wednesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2026-03-18,28.14,46854,28448,63,Summer,3,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-03-19,46.63,44150,26744,62,Summer,3,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2026-03-19,20.53,36501,27192,77,Summer,3,Thursday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2026-03-19,1596.85,639,429,76,Summer,3,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-03-19,20.65,58653,34976,61,Summer,3,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-03-19,1149.61,783,470,59,Summer,3,Thursday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-03-20,49.6,42803,26697,64,Summer,3,Friday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2026-03-21,54.13,41745,22728,58,Summer,3,Saturday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2026-03-21,26.0,39296,25441,74,Summer,3,Saturday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-03-21,46.44,33500,17252,58,Summer,3,Saturday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2026-03-22,1434.72,723,561,75,Summer,3,Sunday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-03-22,239.29,4017,2790,76,Summer,3,Sunday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-03-22,38.56,29329,22840,82,Summer,3,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-03-22,1201.17,471,372,84,Summer,3,Sunday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-03-23,25.27,53189,35330,68,Summer,3,Monday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-03-23,1079.37,501,320,72,Summer,3,Monday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-03-24,2029.46,1017,663,63,Summer,3,Tuesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-03-24,33.28,9685,6537,70,Summer,3,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-03-24,201.26,4149,3389,83,Summer,3,Tuesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-03-26,1921.5,951,569,63,Summer,3,Thursday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-03-26,33.66,11129,8919,78,Summer,3,Thursday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2026-03-26,1686.67,724,566,77,Summer,3,Thursday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-03-27,25.1,40059,30903,75,Summer,3,Friday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2026-03-27,1424.82,1027,614,64,Summer,3,Friday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-03-27,34.75,8613,6141,77,Summer,3,Friday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2026-03-27,34.41,12791,9196,71,Summer,3,Friday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-03-28,215.36,4383,3098,81,Summer,3,Saturday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-03-28,23.82,45153,29758,65,Summer,3,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-03-28,44.21,47825,24869,60,Summer,3,Saturday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-03-28,1488.94,659,480,72,Summer,3,Saturday,Grade B
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-03-28,1015.04,795,537,65,Summer,3,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-03-29,30.79,26286,20614,78,Summer,3,Sunday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-03-29,202.29,5198,3401,75,Summer,3,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-03-29,969.27,773,395,56,Summer,3,Sunday,Grade B
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-03-30,196.14,5000,3061,63,Summer,3,Monday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-03-30,866.03,758,524,66,Summer,3,Monday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2026-03-30,40.46,28808,19242,74,Summer,3,Monday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2026-03-31,34.07,26708,18951,74,Summer,3,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-03-31,27.59,13509,6975,59,Summer,3,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-03-31,170.36,3608,2556,78,Summer,3,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-03-31,27.34,12384,7062,64,Summer,3,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-04-01,259.33,6886,3928,58,Summer,4,Wednesday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-04-01,22.07,37760,26051,77,Summer,4,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-04-01,28.71,58583,30249,58,Summer,4,Wednesday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2026-04-02,40.1,41149,25714,71,Summer,4,Thursday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-04-02,18.75,53521,33843,63,Summer,4,Thursday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2026-04-03,1677.05,587,393,72,Summer,4,Friday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-04-03,28.65,14222,8460,66,Summer,4,Friday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-04-03,49.02,31519,22262,69,Summer,4,Friday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2026-04-03,37.0,43671,24813,60,Summer,4,Friday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-04-03,38.63,25278,17368,68,Summer,4,Friday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-04-04,30.7,29929,20181,74,Summer,4,Saturday,Grade B
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-04-04,220.29,4606,3635,79,Summer,4,Saturday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-04-04,1294.45,761,496,76,Summer,4,Saturday,Grade B
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-04-05,24.37,46072,27243,63,Summer,4,Sunday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2026-04-05,27.91,37389,26839,72,Summer,4,Sunday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-04-06,210.78,5888,3291,56,Summer,4,Monday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-04-07,38.2,33191,18860,59,Summer,4,Tuesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-04-07,55.43,40040,20252,59,Summer,4,Tuesday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2026-04-07,28.49,19798,14969,77,Summer,4,Tuesday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-04-08,1039.57,470,351,74,Summer,4,Wednesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-04-08,43.73,47661,21576,51,Summer,4,Wednesday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-04-09,28.15,31409,20860,73,Summer,4,Thursday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2026-04-09,45.97,34888,17778,59,Summer,4,Thursday,Organic Certified
+Sharbati Wheat,Grains,Indore Mandi,2026-04-09,41.36,21226,16182,86,Summer,4,Thursday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-04-09,185.95,4772,3424,73,Summer,4,Thursday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-04-10,184.74,4795,3255,69,Summer,4,Friday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-04-10,43.27,30981,20857,72,Summer,4,Friday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2026-04-10,26.78,14564,8982,67,Summer,4,Friday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-04-10,1479.32,977,548,61,Summer,4,Friday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-04-10,28.99,9967,6707,74,Summer,4,Friday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-04-10,40.03,21670,14138,73,Summer,4,Friday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-04-10,39.71,31224,17162,58,Summer,4,Friday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2026-04-10,26.56,12672,8952,68,Summer,4,Friday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-04-10,42.57,44595,29794,65,Summer,4,Friday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-04-11,39.19,27030,18497,76,Summer,4,Saturday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-04-11,48.3,24560,18105,74,Summer,4,Saturday,Organic Certified
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-04-11,28.92,13439,9076,68,Summer,4,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-04-11,36.61,41726,25235,60,Summer,4,Saturday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-04-11,20.77,58474,29053,54,Summer,4,Saturday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-04-12,28.77,16330,10134,60,Summer,4,Sunday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-04-13,26.36,48230,34610,69,Summer,4,Monday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-04-13,1615.9,936,605,65,Summer,4,Monday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-04-13,29.86,37873,27600,71,Summer,4,Monday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-04-13,47.88,35874,23249,64,Summer,4,Monday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-04-13,1207.81,446,284,73,Summer,4,Monday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-04-13,28.8,52318,39379,72,Summer,4,Monday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2026-04-13,39.98,35129,22208,65,Summer,4,Monday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-04-13,152.21,6364,3690,63,Summer,4,Monday,Grade B
+Sharbati Wheat,Grains,Sehore Mandi,2026-04-14,32.24,38720,19177,54,Summer,4,Tuesday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2026-04-14,36.53,43839,25626,58,Summer,4,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-04-14,248.88,6294,3883,68,Summer,4,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-04-15,199.25,6107,3784,62,Summer,4,Wednesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-04-15,970.59,839,470,60,Summer,4,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-04-15,1225.85,782,450,66,Summer,4,Wednesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-04-15,1326.13,618,439,74,Summer,4,Wednesday,Grade B
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-04-15,240.57,5887,3038,55,Summer,4,Wednesday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2026-04-15,50.51,30495,20726,74,Summer,4,Wednesday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-04-16,201.43,5807,3876,65,Summer,4,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-04-17,25.12,58946,29222,58,Summer,4,Friday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-04-17,26.81,10550,8271,80,Summer,4,Friday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-04-17,1589.8,804,453,66,Summer,4,Friday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-04-18,26.12,36644,25683,76,Summer,4,Saturday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-04-18,986.73,775,497,64,Summer,4,Saturday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-04-18,223.83,6851,3685,62,Summer,4,Saturday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2026-04-18,19.75,58547,32092,53,Summer,4,Saturday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2026-04-20,1973.18,1045,523,53,Summer,4,Monday,Organic Certified
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-04-20,22.65,14470,7307,57,Summer,4,Monday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-04-20,1441.53,535,390,79,Summer,4,Monday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2026-04-20,55.31,25908,17899,71,Summer,4,Monday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2026-04-20,43.34,34501,21867,71,Summer,4,Monday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-04-21,27.01,31895,22638,69,Summer,4,Tuesday,Grade B
+Vine Tomatoes,Vegetables,Surat Mandi,2026-04-21,36.95,12908,8305,63,Summer,4,Tuesday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2026-04-22,53.01,28370,24171,82,Summer,4,Wednesday,Organic Certified
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-04-22,256.97,4587,2908,66,Summer,4,Wednesday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2026-04-22,1600.9,901,544,64,Summer,4,Wednesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-04-22,1521.76,812,559,74,Summer,4,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-04-22,211.03,6086,3367,64,Summer,4,Wednesday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-04-22,43.66,35206,21241,64,Summer,4,Wednesday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2026-04-23,33.78,27834,17625,62,Summer,4,Thursday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-04-23,48.58,36511,23796,68,Summer,4,Thursday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-04-23,903.94,598,376,68,Summer,4,Thursday,Grade B
+Vine Tomatoes,Vegetables,Pune Market,2026-04-23,28.41,13155,8217,72,Summer,4,Thursday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-04-24,1370.94,902,459,59,Summer,4,Friday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2026-04-24,46.3,24939,17278,79,Summer,4,Friday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-04-25,25.04,41916,32029,78,Summer,4,Saturday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-04-25,832.41,654,471,71,Summer,4,Saturday,Grade B
+Sharbati Wheat,Grains,Sehore Mandi,2026-04-25,45.29,19778,14034,77,Summer,4,Saturday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-04-26,20.1,33995,23682,78,Summer,4,Sunday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-04-26,31.77,33858,26307,85,Summer,4,Sunday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-04-27,1091.85,536,408,78,Summer,4,Monday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-04-27,183.13,5845,3265,61,Summer,4,Monday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-04-27,46.31,37506,18322,51,Summer,4,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2026-04-28,32.66,10705,8087,81,Summer,4,Tuesday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2026-04-29,44.0,25238,16754,70,Summer,4,Wednesday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-04-30,1524.89,1118,596,58,Summer,4,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-04-30,861.47,629,457,76,Summer,4,Thursday,Grade B
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-04-30,23.6,11734,6539,64,Summer,4,Thursday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-04-30,208.95,6162,3339,54,Summer,4,Thursday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-05-01,28.96,34436,25111,73,Summer,5,Friday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-05-01,39.89,40294,23252,65,Summer,5,Friday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-05-01,211.19,3835,2750,81,Summer,5,Friday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2026-05-01,43.63,26013,19777,79,Summer,5,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-05-02,178.16,4545,3606,77,Summer,5,Saturday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-05-03,173.82,5363,3757,71,Summer,5,Sunday,Grade B
+Sharbati Wheat,Grains,Bhopal Mandi,2026-05-03,47.88,32643,20119,71,Summer,5,Sunday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2026-05-03,38.23,26950,21154,85,Summer,5,Sunday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-05-03,36.33,36634,22474,65,Summer,5,Sunday,Grade B
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-05-04,1224.93,736,472,67,Summer,5,Monday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-05-04,1212.73,541,368,69,Summer,5,Monday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-05-04,1451.52,752,494,68,Summer,5,Monday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-05-05,32.38,35219,16978,55,Summer,5,Tuesday,Grade B
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-05-05,146.13,4996,3073,70,Summer,5,Tuesday,Grade B
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-05-06,205.35,6381,3015,54,Summer,5,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-05-06,1413.29,547,317,65,Summer,5,Wednesday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2026-05-06,1787.63,1102,626,57,Summer,5,Wednesday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-05-06,37.16,33164,16431,58,Summer,5,Wednesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2026-05-06,28.81,15397,7606,57,Summer,5,Wednesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2026-05-07,30.27,13391,6990,57,Summer,5,Thursday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-05-07,42.49,41080,22184,58,Summer,5,Thursday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-05-08,40.23,31908,24004,72,Summer,5,Friday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-05-08,27.47,15962,9352,62,Summer,5,Friday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-05-08,22.04,41942,28403,76,Summer,5,Friday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2026-05-09,40.6,46846,27777,64,Summer,5,Saturday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-05-09,178.42,4240,2548,69,Summer,5,Saturday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-05-10,42.68,30404,18901,70,Summer,5,Sunday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2026-05-10,50.61,41395,23265,58,Summer,5,Sunday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-05-10,42.85,39340,23809,60,Summer,5,Sunday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-05-10,173.53,4263,3102,73,Summer,5,Sunday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-05-11,1745.63,986,510,60,Summer,5,Monday,Organic Certified
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-05-11,208.59,6814,3597,59,Summer,5,Monday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2026-05-12,36.7,35638,20530,64,Summer,5,Tuesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-05-12,36.0,40597,24952,70,Summer,5,Tuesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-05-13,39.57,29781,21573,83,Summer,5,Wednesday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-05-13,36.38,22975,16151,80,Summer,5,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-05-13,21.97,15275,8754,61,Summer,5,Wednesday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-05-13,200.31,4978,2855,63,Summer,5,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-05-13,25.03,59717,34219,55,Summer,5,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-05-14,201.49,5758,3375,61,Summer,5,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-05-14,1039.63,422,300,76,Summer,5,Thursday,Grade B
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-05-14,30.41,9540,6814,73,Summer,5,Thursday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-05-14,36.24,35823,21677,61,Summer,5,Thursday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-05-14,35.07,13323,6840,59,Summer,5,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-05-15,45.78,25211,20089,81,Summer,5,Friday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2026-05-15,41.86,26488,20786,77,Summer,5,Friday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-05-16,38.87,47375,24507,57,Summer,5,Saturday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-05-16,21.16,58920,33565,62,Summer,5,Saturday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-05-16,164.54,6255,3294,55,Summer,5,Saturday,Grade B
+Nashik Red Onions,Vegetables,Nashik APMC,2026-05-16,23.73,36933,29699,80,Summer,5,Saturday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-05-17,1543.65,710,480,78,Summer,5,Sunday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-05-18,42.73,26958,18073,68,Summer,5,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2026-05-19,32.12,8850,6718,75,Summer,5,Tuesday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-05-19,1084.06,585,395,73,Summer,5,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-05-19,31.29,15947,8788,63,Summer,5,Tuesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-05-21,21.76,62113,35315,55,Summer,5,Thursday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-05-22,25.14,13759,7626,58,Summer,5,Friday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-05-22,185.4,5867,3432,64,Summer,5,Friday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-05-22,232.9,4166,2835,75,Summer,5,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-05-22,195.77,5733,2913,57,Summer,5,Friday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-05-23,211.26,5751,3938,68,Summer,5,Saturday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-05-23,1106.86,513,358,74,Summer,5,Saturday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-05-24,1850.2,628,454,79,Summer,5,Sunday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2026-05-25,39.59,33759,22315,64,Summer,5,Monday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-05-25,47.38,34754,25649,74,Summer,5,Monday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2026-05-26,1944.63,869,627,71,Summer,5,Tuesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2026-05-27,29.4,12174,6367,61,Summer,5,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-05-27,25.68,16193,7302,53,Summer,5,Wednesday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-05-27,214.92,6894,3795,61,Summer,5,Wednesday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2026-05-27,1572.39,789,584,73,Summer,5,Wednesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-05-27,50.31,43117,22535,60,Summer,5,Wednesday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-05-27,1324.81,678,396,64,Summer,5,Wednesday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-05-27,206.34,4202,3432,78,Summer,5,Wednesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-05-27,214.44,4059,2578,69,Summer,5,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-05-28,29.73,12461,8637,76,Summer,5,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-05-29,25.77,49655,30633,59,Summer,5,Friday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-05-29,1003.2,766,374,56,Summer,5,Friday,Grade B
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-05-30,32.24,9243,6754,84,Summer,5,Saturday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2026-05-30,25.51,35411,23544,73,Summer,5,Saturday,Organic Certified
+Sharbati Wheat,Grains,Sehore Mandi,2026-05-30,32.59,35400,17583,57,Summer,5,Saturday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2026-05-30,40.68,38501,20864,62,Summer,5,Saturday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-05-30,47.1,20257,15656,79,Summer,5,Saturday,Organic Certified
+Sharbati Wheat,Grains,Sehore Mandi,2026-05-31,35.07,28774,16558,63,Summer,5,Sunday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-05-31,1946.73,819,550,66,Summer,5,Sunday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-05-31,23.52,45064,26786,68,Summer,5,Sunday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-05-31,45.76,30198,18998,69,Summer,5,Sunday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-06-01,170.98,5060,3335,66,Kharif,6,Monday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-06-01,1945.74,901,521,64,Kharif,6,Monday,Organic Certified
+Vine Tomatoes,Vegetables,Surat Mandi,2026-06-01,38.89,12425,7361,63,Kharif,6,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-06-01,30.49,11889,7360,62,Kharif,6,Monday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-06-01,183.98,5385,3533,68,Kharif,6,Monday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-06-03,1171.61,742,485,66,Kharif,6,Wednesday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-06-04,1522.73,545,428,81,Kharif,6,Thursday,Organic Certified
+Vine Tomatoes,Vegetables,Pune Market,2026-06-04,32.72,11780,8036,71,Kharif,6,Thursday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-06-04,33.92,36920,18497,51,Kharif,6,Thursday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2026-06-04,45.89,40611,22512,61,Kharif,6,Thursday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-06-04,40.34,24784,19279,79,Kharif,6,Thursday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-06-04,19.8,35576,27199,79,Kharif,6,Thursday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2026-06-05,1656.44,815,533,71,Kharif,6,Friday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-06-05,32.2,37206,19044,56,Kharif,6,Friday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-06-05,1566.19,767,480,64,Kharif,6,Friday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-06-06,22.66,54325,32773,68,Kharif,6,Saturday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-06-06,155.06,4126,3113,79,Kharif,6,Saturday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-06-06,36.6,9479,6132,72,Kharif,6,Saturday,Organic Certified
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-06-07,29.92,13951,8224,64,Kharif,6,Sunday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-06-07,135.88,3885,2816,80,Kharif,6,Sunday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-06-09,49.26,27581,17405,72,Kharif,6,Tuesday,Organic Certified
+Sharbati Wheat,Grains,Indore Mandi,2026-06-10,39.88,35673,17409,57,Kharif,6,Wednesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-06-11,21.37,37387,28298,78,Kharif,6,Thursday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-06-11,39.5,33207,17198,56,Kharif,6,Thursday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-06-12,22.03,46193,29958,69,Kharif,6,Friday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-06-13,1875.06,987,565,61,Kharif,6,Saturday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2026-06-13,52.62,38216,24664,72,Kharif,6,Saturday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-06-13,41.03,12560,8659,67,Kharif,6,Saturday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-06-13,1909.73,793,431,63,Kharif,6,Saturday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-06-14,56.63,29961,21789,79,Kharif,6,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-06-14,1233.01,552,356,69,Kharif,6,Sunday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2026-06-15,23.52,39745,29140,74,Kharif,6,Monday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-06-15,20.27,50384,36401,73,Kharif,6,Monday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-06-15,36.02,11860,6917,67,Kharif,6,Monday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-06-16,49.93,29660,23647,77,Kharif,6,Tuesday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-06-16,54.08,34949,22599,62,Kharif,6,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-06-17,32.75,11279,7906,74,Kharif,6,Wednesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-06-18,46.4,34033,25063,71,Kharif,6,Thursday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-06-18,57.19,46005,25009,57,Kharif,6,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-06-19,51.35,40701,23818,64,Kharif,6,Friday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-06-20,171.8,3685,2361,72,Kharif,6,Saturday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-06-20,1745.66,831,553,65,Kharif,6,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-06-21,55.65,37388,28245,75,Kharif,6,Sunday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2026-06-21,1892.23,823,554,74,Kharif,6,Sunday,Grade A (Export)
+Vine Tomatoes,Vegetables,Surat Mandi,2026-06-22,31.65,12019,7337,66,Kharif,6,Monday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-06-23,53.03,26413,16627,73,Kharif,6,Tuesday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-06-24,44.05,29566,16365,60,Kharif,6,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-06-24,64.16,33046,22391,73,Kharif,6,Wednesday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2026-06-24,35.34,12782,7531,65,Kharif,6,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-06-25,123.55,6730,3569,61,Kharif,6,Thursday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2026-06-26,1613.54,1087,557,52,Kharif,6,Friday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-06-27,1512.46,716,416,68,Kharif,6,Saturday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-06-27,40.91,29049,19244,72,Kharif,6,Saturday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-06-27,32.04,42662,31656,75,Kharif,6,Saturday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-06-27,24.61,37515,28470,73,Kharif,6,Saturday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-06-28,199.17,3780,2448,75,Kharif,6,Sunday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-06-28,1041.79,489,423,83,Kharif,6,Sunday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-06-28,21.18,44895,31077,71,Kharif,6,Sunday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-06-29,29.18,12847,8238,67,Kharif,6,Monday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-07-01,21.91,43952,29028,65,Kharif,7,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-07-01,155.77,4305,2828,68,Kharif,7,Wednesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-07-02,68.86,34017,26066,74,Kharif,7,Thursday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2026-07-02,31.46,21157,14110,71,Kharif,7,Thursday,Grade B
+Sharbati Wheat,Grains,Bhopal Mandi,2026-07-03,45.86,24465,15468,68,Kharif,7,Friday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-07-03,1195.56,544,423,77,Kharif,7,Friday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2026-07-03,1442.28,698,529,74,Kharif,7,Friday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-07-03,170.12,6552,3495,55,Kharif,7,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-07-04,134.89,6569,3432,59,Kharif,7,Saturday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-07-04,1231.13,465,346,76,Kharif,7,Saturday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-07-04,145.87,5492,3776,66,Kharif,7,Saturday,Grade B
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-07-04,117.49,5035,3332,75,Kharif,7,Saturday,Grade B
+Sharbati Wheat,Grains,Sehore Mandi,2026-07-05,39.38,30686,21503,73,Kharif,7,Sunday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-07-05,26.94,55136,37077,69,Kharif,7,Sunday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-07-05,62.24,36384,19808,63,Kharif,7,Sunday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-07-05,35.54,14616,8088,58,Kharif,7,Sunday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-07-05,32.48,48987,24572,59,Kharif,7,Sunday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2026-07-05,51.47,38405,23439,59,Kharif,7,Sunday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-07-05,1414.05,703,402,59,Kharif,7,Sunday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-07-06,44.91,46978,30747,66,Kharif,7,Monday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-07-07,1575.87,910,519,63,Kharif,7,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-07-08,29.27,11337,7010,65,Kharif,7,Wednesday,Grade B
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-07-08,1426.55,780,395,59,Kharif,7,Wednesday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2026-07-09,51.21,39963,27680,66,Kharif,7,Thursday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2026-07-09,38.91,19815,14245,81,Kharif,7,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-07-09,56.06,24807,18590,82,Kharif,7,Thursday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-07-10,23.08,34343,25659,77,Kharif,7,Friday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-07-10,23.75,40948,25720,65,Kharif,7,Friday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-07-11,29.37,16201,8154,59,Kharif,7,Saturday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-07-11,141.65,6445,4123,63,Kharif,7,Saturday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-07-11,969.63,627,400,66,Kharif,7,Saturday,Grade B
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-07-12,33.64,15426,7344,56,Kharif,7,Sunday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-07-13,1569.52,715,465,65,Kharif,7,Monday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-07-13,55.84,38036,23643,71,Kharif,7,Monday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-07-13,1967.11,1026,495,55,Kharif,7,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-07-14,167.77,6260,3314,60,Kharif,7,Tuesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-07-16,1415.41,841,539,64,Kharif,7,Thursday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-07-17,1913.23,700,501,72,Kharif,7,Friday,Grade A (Export)
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-07-17,36.48,16086,9022,61,Kharif,7,Friday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-07-17,1439.31,954,589,64,Kharif,7,Friday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-07-17,36.35,13104,7883,69,Kharif,7,Friday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-07-17,21.93,38943,24766,68,Kharif,7,Friday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2026-07-18,55.54,45358,25622,56,Kharif,7,Saturday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-07-18,26.3,52066,34951,71,Kharif,7,Saturday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2026-07-18,27.04,61792,39918,62,Kharif,7,Saturday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2026-07-18,24.79,60235,28702,54,Kharif,7,Saturday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-07-18,44.96,25382,18921,81,Kharif,7,Saturday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-07-18,149.43,6662,3887,62,Kharif,7,Saturday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-07-19,39.52,35563,22556,68,Kharif,7,Sunday,Grade B
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-07-19,25.57,48499,28206,63,Kharif,7,Sunday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-07-19,177.06,4151,3328,83,Kharif,7,Sunday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2026-07-19,30.16,61019,33521,62,Kharif,7,Sunday,Organic Certified
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-07-20,159.56,6599,3886,61,Kharif,7,Monday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-07-20,1461.1,1071,633,64,Kharif,7,Monday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-07-21,46.3,39792,25929,66,Kharif,7,Tuesday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-07-21,204.22,4597,2936,75,Kharif,7,Tuesday,Organic Certified
+Sharbati Wheat,Grains,Indore Mandi,2026-07-21,36.49,27586,19657,69,Kharif,7,Tuesday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-07-22,24.6,58895,36101,61,Kharif,7,Wednesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2026-07-22,20.87,39855,27185,75,Kharif,7,Wednesday,Grade B
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-07-22,157.24,5165,3193,65,Kharif,7,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-07-22,43.87,10469,6675,70,Kharif,7,Wednesday,Organic Certified
+Vine Tomatoes,Vegetables,Pune Market,2026-07-22,45.36,8489,7110,85,Kharif,7,Wednesday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2026-07-22,40.01,38515,25595,67,Kharif,7,Wednesday,Grade B
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-07-23,19.01,46536,28744,71,Kharif,7,Thursday,Grade B
+Sharbati Wheat,Grains,Sehore Mandi,2026-07-24,47.26,30608,17404,61,Kharif,7,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-07-24,122.41,5117,2907,65,Kharif,7,Friday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2026-07-25,54.19,24841,17530,75,Kharif,7,Saturday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-07-25,42.85,19988,13794,75,Kharif,7,Saturday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2026-07-26,21.01,56874,37410,66,Kharif,7,Sunday,Grade B
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-07-26,20.68,44308,26409,68,Kharif,7,Sunday,Grade B
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-07-26,19.92,41639,31666,76,Kharif,7,Sunday,Grade B
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-07-27,21.27,33770,22472,71,Kharif,7,Monday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2026-07-29,1659.67,854,613,69,Kharif,7,Wednesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-07-29,1735.62,698,521,82,Kharif,7,Wednesday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-07-29,29.11,40655,27434,70,Kharif,7,Wednesday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-07-30,1437.5,904,519,64,Kharif,7,Thursday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-07-30,25.78,56290,33203,60,Kharif,7,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-07-30,1141.37,684,444,63,Kharif,7,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-07-30,61.82,30217,19523,74,Kharif,7,Thursday,Organic Certified
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-07-30,917.69,534,317,70,Kharif,7,Thursday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2026-07-30,1705.66,880,558,66,Kharif,7,Thursday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-07-31,1724.65,766,528,66,Kharif,7,Friday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-07-31,1417.7,665,368,58,Kharif,7,Friday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2026-07-31,38.74,35019,21510,61,Kharif,7,Friday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-07-31,1395.34,756,456,63,Kharif,7,Friday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2026-08-01,1439.29,853,560,65,Kharif,8,Saturday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-08-03,20.49,54840,25715,54,Kharif,8,Monday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-08-03,37.75,29415,20956,81,Kharif,8,Monday,Grade B
+Sharbati Wheat,Grains,Bhopal Mandi,2026-08-03,47.22,27806,16226,67,Kharif,8,Monday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2026-08-04,1312.49,1062,590,60,Kharif,8,Tuesday,Grade B
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-08-04,31.67,10317,7474,82,Kharif,8,Tuesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-08-05,1879.5,1075,588,56,Kharif,8,Wednesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2026-08-05,23.78,50646,36554,69,Kharif,8,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-08-05,21.76,49191,31221,70,Kharif,8,Wednesday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2026-08-05,38.55,32662,22165,65,Kharif,8,Wednesday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2026-08-05,49.97,35276,21751,70,Kharif,8,Wednesday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-08-05,40.14,38331,20603,55,Kharif,8,Wednesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-08-06,60.91,25569,17581,76,Kharif,8,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-08-06,22.3,40528,32288,78,Kharif,8,Thursday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-08-06,1734.79,812,570,76,Kharif,8,Thursday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-08-07,148.64,4510,3302,77,Kharif,8,Friday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-08-07,37.07,8631,6948,86,Kharif,8,Friday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-08-08,28.63,40375,29552,77,Kharif,8,Saturday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-08-08,134.17,6240,3186,59,Kharif,8,Saturday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-08-08,942.77,569,385,67,Kharif,8,Saturday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2026-08-08,34.48,25670,17222,72,Kharif,8,Saturday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2026-08-09,55.07,34563,24859,72,Kharif,8,Sunday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-08-09,53.94,32066,21028,67,Kharif,8,Sunday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-08-09,46.43,31506,16156,58,Kharif,8,Sunday,Organic Certified
+Sharbati Wheat,Grains,Sehore Mandi,2026-08-09,40.13,23279,17294,79,Kharif,8,Sunday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-08-10,43.86,33178,18274,56,Kharif,8,Monday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2026-08-10,1449.04,1038,589,65,Kharif,8,Monday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-08-10,1667.27,1076,728,65,Kharif,8,Monday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2026-08-10,38.73,29785,17123,66,Kharif,8,Monday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-08-11,1426.68,837,419,50,Kharif,8,Tuesday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2026-08-12,36.08,26990,21136,78,Kharif,8,Wednesday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-08-12,45.69,38894,22553,64,Kharif,8,Wednesday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-08-13,20.19,55589,32730,61,Kharif,8,Thursday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-08-13,40.78,31367,22292,77,Kharif,8,Thursday,Grade B
+Vine Tomatoes,Vegetables,Pune Market,2026-08-13,41.49,15610,10228,63,Kharif,8,Thursday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-08-14,52.3,28776,20407,77,Kharif,8,Friday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-08-14,39.37,37668,20436,59,Kharif,8,Friday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-08-14,52.46,44685,26648,66,Kharif,8,Friday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-08-14,146.6,6687,3961,61,Kharif,8,Friday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-08-14,27.93,42959,31837,72,Kharif,8,Friday,Organic Certified
+Green Cardamom,Spices,Vandanmedu Market,2026-08-14,1962.53,675,422,72,Kharif,8,Friday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2026-08-15,18.05,36519,28938,84,Kharif,8,Saturday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2026-08-15,52.61,32356,24216,73,Kharif,8,Saturday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-08-15,36.21,15859,8351,61,Kharif,8,Saturday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-08-15,142.0,4267,2641,69,Kharif,8,Saturday,Grade B
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-08-15,134.93,5292,3696,68,Kharif,8,Saturday,Grade A
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-08-15,31.26,13467,8699,64,Kharif,8,Saturday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-08-15,1423.71,1065,643,60,Kharif,8,Saturday,Grade B
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-08-16,28.72,14412,8029,63,Kharif,8,Sunday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2026-08-16,1750.25,597,485,86,Kharif,8,Sunday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-08-16,1124.91,542,403,80,Kharif,8,Sunday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-08-16,17.69,55333,32168,56,Kharif,8,Sunday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2026-08-17,51.26,42518,28773,69,Kharif,8,Monday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-08-17,45.76,36765,23425,67,Kharif,8,Monday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-08-17,25.03,50615,33799,69,Kharif,8,Monday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-08-17,1124.64,515,398,74,Kharif,8,Monday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-08-19,39.14,35299,20811,64,Kharif,8,Wednesday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-08-19,40.13,27351,18632,76,Kharif,8,Wednesday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-08-20,1593.81,1075,638,62,Kharif,8,Thursday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-08-20,1661.76,793,577,71,Kharif,8,Thursday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-08-20,47.59,27522,18536,66,Kharif,8,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-08-20,29.87,34530,24810,71,Kharif,8,Thursday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-08-21,146.74,4412,3010,76,Kharif,8,Friday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-08-21,25.6,45532,26555,62,Kharif,8,Friday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-08-21,1710.06,989,498,59,Kharif,8,Friday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-08-22,52.16,33601,22210,70,Kharif,8,Saturday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-08-22,58.03,40727,26258,67,Kharif,8,Saturday,Grade A (Export)
+Nashik Red Onions,Vegetables,Nashik APMC,2026-08-22,28.66,31781,22416,73,Kharif,8,Saturday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-08-22,1550.29,585,398,76,Kharif,8,Saturday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-08-23,37.02,9617,6983,82,Kharif,8,Sunday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-08-23,27.85,62222,29889,54,Kharif,8,Sunday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-08-24,26.67,47389,26984,63,Kharif,8,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2026-08-24,34.46,15768,9724,67,Kharif,8,Monday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-08-25,152.24,4085,2430,68,Kharif,8,Tuesday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-08-25,1822.01,756,431,65,Kharif,8,Tuesday,Organic Certified
+Vine Tomatoes,Vegetables,Pune Market,2026-08-25,43.46,13556,9230,73,Kharif,8,Tuesday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-08-26,25.36,50723,31358,70,Kharif,8,Wednesday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-08-26,42.98,41104,22508,60,Kharif,8,Wednesday,Grade B
+Sharbati Wheat,Grains,Bhopal Mandi,2026-08-26,46.45,39052,18461,51,Kharif,8,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-08-27,48.59,40431,24236,62,Kharif,8,Thursday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-08-28,1392.01,682,549,83,Kharif,8,Friday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-08-28,205.24,6623,3143,55,Kharif,8,Friday,Organic Certified
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-08-28,157.45,6592,3259,54,Kharif,8,Friday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-08-29,52.06,40078,26400,69,Kharif,8,Saturday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-08-29,2207.65,1063,700,63,Kharif,8,Saturday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2026-08-30,1819.44,989,545,53,Kharif,8,Sunday,Organic Certified
+Green Cardamom,Spices,Bodinayakanur APMC,2026-08-30,1751.48,1002,638,67,Kharif,8,Sunday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-08-31,42.18,38130,18978,50,Kharif,8,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2026-08-31,30.4,14469,7562,61,Kharif,8,Monday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-08-31,1723.62,699,582,81,Kharif,8,Monday,Grade A
+Green Cardamom,Spices,Bodinayakanur APMC,2026-09-01,2074.45,925,540,68,Kharif,9,Tuesday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-09-01,1101.17,420,360,91,Kharif,9,Tuesday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-09-01,37.03,13096,9267,77,Kharif,9,Tuesday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2026-09-02,37.25,38539,28355,71,Kharif,9,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-09-02,190.75,4578,3905,86,Kharif,9,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-09-03,62.02,30593,24703,93,Kharif,9,Thursday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2026-09-03,1920.86,761,600,90,Kharif,9,Thursday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-09-04,25.47,42005,33852,80,Kharif,9,Friday,Organic Certified
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-09-04,1009.26,769,527,69,Kharif,9,Friday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-09-04,48.87,27298,25593,92,Kharif,9,Friday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-09-04,1962.83,658,586,95,Kharif,9,Friday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-09-04,154.16,4807,4341,88,Kharif,9,Friday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-09-04,982.54,625,402,72,Kharif,9,Friday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-09-04,47.57,25983,22077,89,Kharif,9,Friday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-09-05,31.76,15855,12688,77,Kharif,9,Saturday,Grade B
+Sharbati Wheat,Grains,Bhopal Mandi,2026-09-07,33.6,30692,20035,71,Kharif,9,Monday,Grade B
+Sharbati Wheat,Grains,Indore Mandi,2026-09-08,37.92,26041,22579,91,Kharif,9,Tuesday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-09-09,31.54,26004,19810,76,Kharif,9,Wednesday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2026-09-09,2102.61,822,670,82,Kharif,9,Wednesday,Organic Certified
+Sharbati Wheat,Grains,Bhopal Mandi,2026-09-10,45.9,26024,20141,78,Kharif,9,Thursday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2026-09-11,36.72,27551,19414,77,Kharif,9,Friday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-09-11,199.17,5090,4204,86,Kharif,9,Friday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2026-09-11,28.7,61511,39201,66,Kharif,9,Friday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2026-09-12,1805.29,767,684,89,Kharif,9,Saturday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2026-09-12,31.95,11732,8435,84,Kharif,9,Saturday,Grade B
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-09-12,217.8,4505,3534,87,Kharif,9,Saturday,Organic Certified
+Nashik Red Onions,Vegetables,Nashik APMC,2026-09-14,29.17,41558,37785,87,Kharif,9,Monday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-09-14,36.32,15342,9693,70,Kharif,9,Monday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-09-14,45.87,47289,37532,77,Kharif,9,Monday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-09-14,33.75,12104,8716,81,Kharif,9,Monday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-09-15,39.97,32551,25221,76,Kharif,9,Tuesday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-09-16,50.76,30497,25977,92,Kharif,9,Wednesday,Grade A
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-09-16,20.75,40575,30510,86,Kharif,9,Wednesday,Grade A
+Vine Tomatoes,Vegetables,Lasalgaon APMC,2026-09-16,36.65,14412,11896,82,Kharif,9,Wednesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-09-17,147.57,5230,3801,82,Kharif,9,Thursday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-09-17,1617.08,1021,730,73,Kharif,9,Thursday,Grade A (Export)
+Green Cardamom,Spices,Bodinayakanur APMC,2026-09-17,1565.66,964,697,70,Kharif,9,Thursday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-09-18,48.24,28345,23008,79,Kharif,9,Friday,Organic Certified
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-09-18,22.52,33284,27666,86,Kharif,9,Friday,Grade A
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-09-18,198.61,6073,4008,67,Kharif,9,Friday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-09-19,186.13,6434,4080,67,Kharif,9,Saturday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-09-19,52.15,31406,27953,88,Kharif,9,Saturday,Grade A (Export)
+Sharbati Wheat,Grains,Sehore Mandi,2026-09-20,47.56,32878,27099,79,Kharif,9,Sunday,Grade A (Export)
+Sharbati Wheat,Grains,Bhopal Mandi,2026-09-20,30.15,33293,22850,71,Kharif,9,Sunday,Grade B
+Green Cardamom,Spices,Bodinayakanur APMC,2026-09-20,2220.39,1080,793,73,Kharif,9,Sunday,Organic Certified
+Basmati Paddy,Grains,Karnal Mandi,2026-09-21,53.75,27939,21284,86,Kharif,9,Monday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-09-21,63.34,47970,33695,76,Kharif,9,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-09-21,183.59,3825,3442,98,Kharif,9,Monday,Grade A (Export)
+Basmati Paddy,Grains,Amritsar Grain Market,2026-09-21,51.43,40124,31840,83,Kharif,9,Monday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-09-21,44.71,48986,36801,74,Kharif,9,Monday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-09-22,39.41,16632,8775,61,Kharif,9,Tuesday,Organic Certified
+Basmati Paddy,Grains,Amritsar Grain Market,2026-09-22,47.12,24883,19336,90,Kharif,9,Tuesday,Grade B
+Green Cardamom,Spices,Vandanmedu Market,2026-09-23,1366.09,830,716,85,Kharif,9,Wednesday,Grade B
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-09-23,1101.04,490,446,87,Kharif,9,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-09-24,158.87,4566,3724,89,Kharif,9,Thursday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-09-24,973.39,449,353,91,Kharif,9,Thursday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-09-24,22.3,37275,33807,90,Kharif,9,Thursday,Grade A
+Sharbati Wheat,Grains,Sehore Mandi,2026-09-25,36.3,38125,22282,63,Kharif,9,Friday,Grade A
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-09-25,21.5,52119,37548,73,Kharif,9,Friday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-09-25,39.41,16511,11927,74,Kharif,9,Friday,Grade A (Export)
+Nashik Red Onions,Vegetables,Lasalgaon APMC,2026-09-26,24.86,35276,28844,83,Kharif,9,Saturday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-09-26,40.64,32304,21756,70,Kharif,9,Saturday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-09-26,35.83,16441,11240,77,Kharif,9,Saturday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-09-28,1505.53,692,600,83,Kharif,9,Monday,Grade B
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-09-28,147.7,6781,3891,61,Kharif,9,Monday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-09-29,22.77,54966,46639,82,Kharif,9,Tuesday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-09-30,20.75,60012,36329,62,Kharif,9,Wednesday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-09-30,179.2,6853,4436,64,Kharif,9,Wednesday,Grade A (Export)
+Sharbati Wheat,Grains,Indore Mandi,2026-10-01,47.33,36294,28331,75,Rabi,10,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Pune Farmers Market,2026-10-01,996.45,829,551,72,Rabi,10,Thursday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-10-01,1191.98,467,349,85,Rabi,10,Thursday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-10-01,1608.15,1018,703,70,Rabi,10,Thursday,Grade A (Export)
+Vine Tomatoes,Vegetables,Pune Market,2026-10-01,29.68,10235,9038,88,Rabi,10,Thursday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-10-03,30.86,8616,7412,88,Rabi,10,Saturday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-10-03,41.28,16043,10184,70,Rabi,10,Saturday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-10-03,1759.34,646,469,83,Rabi,10,Saturday,Grade A (Export)
+Nashik Red Onions,Vegetables,Vashi Wholesale,2026-10-03,36.49,49081,35945,73,Rabi,10,Saturday,Organic Certified
+Alphonso Mangoes,Fruits,Devgad Mandi,2026-10-03,136.67,3773,3363,98,Rabi,10,Saturday,Grade A
+Sharbati Wheat,Grains,Indore Mandi,2026-10-03,49.65,31789,22080,69,Rabi,10,Saturday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-10-05,1565.52,822,680,82,Rabi,10,Monday,Grade A
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-10-05,169.27,6635,5076,76,Rabi,10,Monday,Grade A
+Basmati Paddy,Grains,Amritsar Grain Market,2026-10-05,55.17,28396,22764,90,Rabi,10,Monday,Organic Certified
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-10-06,168.72,6082,3927,68,Rabi,10,Tuesday,Organic Certified
+Vine Tomatoes,Vegetables,Pimpalgaon APMC,2026-10-06,39.03,8566,8566,99,Rabi,10,Tuesday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-10-07,1817.3,1101,733,67,Rabi,10,Wednesday,Grade A (Export)
+Basmati Paddy,Grains,Karnal Mandi,2026-10-08,42.02,24575,21579,90,Rabi,10,Thursday,Grade A
+Green Cardamom,Spices,Vandanmedu Market,2026-10-09,1666.3,1104,647,64,Rabi,10,Friday,Grade A
+Vine Tomatoes,Vegetables,Pune Market,2026-10-09,24.93,13991,9088,72,Rabi,10,Friday,Grade B
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-10-10,140.89,6124,3624,69,Rabi,10,Saturday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-10-11,40.59,38259,25614,68,Rabi,10,Sunday,Grade A
+Vine Tomatoes,Vegetables,Surat Mandi,2026-10-11,26.39,14289,10259,77,Rabi,10,Sunday,Grade B
+Basmati Paddy,Grains,Karnal Mandi,2026-10-11,41.36,39519,29877,79,Rabi,10,Sunday,Grade A
+Basmati Paddy,Grains,Karnal Mandi,2026-10-11,41.37,25299,23748,92,Rabi,10,Sunday,Grade A
+Nashik Red Onions,Vegetables,Nashik APMC,2026-10-12,32.09,42862,28087,77,Rabi,10,Monday,Grade A (Export)
+Alphonso Mangoes,Fruits,Vashi Wholesale,2026-10-12,136.37,5751,4382,77,Rabi,10,Monday,Grade B
+Basmati Paddy,Grains,Amritsar Grain Market,2026-10-12,40.76,33910,30006,91,Rabi,10,Monday,Grade A
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-10-12,1353.23,816,519,66,Rabi,10,Monday,Grade A (Export)
+Organic Desi Ghee,Organic Products,Nashik Agro Direct,2026-10-12,1033.94,666,504,77,Rabi,10,Monday,Grade A
+Sharbati Wheat,Grains,Bhopal Mandi,2026-10-12,56.62,37400,26971,78,Rabi,10,Monday,Grade A (Export)
+Green Cardamom,Spices,Vandanmedu Market,2026-10-13,2006.06,829,639,83,Rabi,10,Tuesday,Grade A (Export)
+Alphonso Mangoes,Fruits,Ratnagiri APMC,2026-10-13,142.92,3511,3107,92,Rabi,10,Tuesday,Grade B

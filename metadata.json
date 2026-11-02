@@ -1,0 +1,6 @@
+{
+  "name": "AgriSmart – AI Agricultural Marketplace",
+  "description": "AI-Powered Agricultural Marketplace mobile application connecting farmers with customers, featuring crop price prediction, demand forecasting, and Gemini advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
